@@ -4,8 +4,8 @@ This is a repo that shares a lot of the great links I have collected on how to a
 
 ## AI Coding Agents
 
-- **[loop-engineering](https://github.com/cobusgreyling/loop-engineering)** — *Practical patterns, starters, and CLI tools for loop engineering — teaches agents how to iterate effectively with human feedback rather than guessing.* ⭐ 9.5k [JavaScript]
 - **[Cmd+Ctrl](https://cmd-ctrl.ai/)** — *Centralized control dashboard for AI coding agents — monitor, manage, and switch between multiple agent sessions from one interface.* ⭐ ?
+- **[loop-engineering](https://github.com/cobusgreyling/loop-engineering)** — *Practical patterns, starters, and CLI tools for loop engineering — teaches agents how to iterate effectively with human feedback rather than guessing.* ⭐ 9.5k [JavaScript]
 
 ## Agent Frameworks & SDKs
 
@@ -26,20 +26,20 @@ This is a repo that shares a lot of the great links I have collected on how to a
 ## AI Infrastructure & MLOps
 
 - **[CubeSandbox](https://github.com/TencentCloud/CubeSandbox)** — *Instant, concurrent, lightweight sandbox for AI agents — run untrusted agent code safely at scale with near-zero overhead in Rust.* ⭐ 10.7k [Rust]
-- **[OpenShip](https://github.com/oblien/openship)** — *Self-hosted deployment platform for AI apps — take full control of your AI infrastructure instead of relying on managed services.* ⭐ 9.0k [TypeScript]
 - **[Mnemosyne](https://mnemosyne.site/)** — *Native AI memory engine for Hermes Agent — SQLite-backed, 50-500x faster than Honcho/Zep/Mem0, with three-tier memory and hybrid search for persistent agent context.* ⭐ ?
+- **[OpenShip](https://github.com/oblien/openship)** — *Self-hosted deployment platform for AI apps — take full control of your AI infrastructure instead of relying on managed services.* ⭐ 9.0k [TypeScript]
 
 ## AI Tools & CLI
 
+- **[adhd](https://github.com/UditAkhourii/adhd)** — *Tree-of-thought with pruning for coding agents — explores multiple solution paths and prunes dead ends before committing, reducing wasted agent iterations.* ⭐ 2.4k [TypeScript]
+- **[apm](https://github.com/microsoft/apm)** — *Microsoft's Agent Package Manager — standardized way to discover, install, and version AI agent packages, bringing npm-like discipline to agent tooling.* ⭐ 3.4k [Python]
+- **[asm](https://github.com/luongnv89/asm)** — *Universal skill manager for AI coding agents — one tool to manage skills across different agent platforms and frameworks.* ⭐ 752 [TypeScript]
 - **[awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** — *Massive collection of DESIGN.md files from major brands — gives AI coding agents the design system specs they need to produce pixel-perfect, brand-consistent UIs.* ⭐ 104k+
-- **[pm-skills](https://github.com/phuryn/pm-skills)** — *100+ agentic PM skills, commands, and plugins — turns AI coding agents into full product managers with sprint planning, backlog grooming, and stakeholder comms built in.* ⭐ 24.5k
+- **[Hallmark](https://www.usehallmark.com/)** — *Design skill that prevents AI-generated-looking outputs — 20 themes with a 57-gate quality check to make AI code look hand-crafted.* ⭐ ?
 - **[i-have-adhd](https://github.com/ayghri/i-have-adhd)** — *ADHD-friendly skill for coding agents — forces agents to surface the answer upfront instead of burying it in verbose explanations, keeping outputs scannable and direct.* ⭐ 11.4k [Python]
 - **[OpenSpace](https://github.com/HKUDS/OpenSpace)** — *Skill management layer for AI agents — discover, install, and manage agent skills from a marketplace, replacing ad-hoc skill hoarding.* ⭐ 7.1k [Python]
-- **[apm](https://github.com/microsoft/apm)** — *Microsoft's Agent Package Manager — standardized way to discover, install, and version AI agent packages, bringing npm-like discipline to agent tooling.* ⭐ 3.4k [Python]
-- **[adhd](https://github.com/UditAkhourii/adhd)** — *Tree-of-thought with pruning for coding agents — explores multiple solution paths and prunes dead ends before committing, reducing wasted agent iterations.* ⭐ 2.4k [TypeScript]
+- **[pm-skills](https://github.com/phuryn/pm-skills)** — *100+ agentic PM skills, commands, and plugins — turns AI coding agents into full product managers with sprint planning, backlog grooming, and stakeholder comms built in.* ⭐ 24.5k
 - **[SkillClaw](https://github.com/AMAP-ML/SkillClaw)** — *Agentic evolver that lets AI skills evolve collectively through automated iteration — skills improve themselves over time.* ⭐ 2.3k [Python]
-- **[asm](https://github.com/luongnv89/asm)** — *Universal skill manager for AI coding agents — one tool to manage skills across different agent platforms and frameworks.* ⭐ 752 [TypeScript]
-- **[Hallmark](https://www.usehallmark.com/)** — *Design skill that prevents AI-generated-looking outputs — 20 themes with a 57-gate quality check to make AI code look hand-crafted.* ⭐ ?
 
 ## AI Research & Papers
 
