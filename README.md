@@ -5,6 +5,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 ## AI Coding Agents
 
 - **[ Agent Flow ](https://github.com/patoles/agent-flow)** — *Real-time visualization of Claude Code agent orchestration — see your agents think, branch, and coordinate as they work.* ⭐ 1.4k [TypeScript]
+- **[ Hermes Control Deck ](https://github.com/filipj9/Hermes-Control-Deck)** — *Mobile-first PWA control deck for Hermes WebUI and Codex CLI — unified monitoring, prompt submission, approvals, and session management from any browser or phone.* ⭐ 33
 - **[ Cmd+Ctrl ](https://cmd-ctrl.ai/)** — *Centralized control dashboard for AI coding agents — monitor, manage, and switch between multiple agent sessions from one interface.* ⭐ ?
 - **[ garrytan/gstack ](https://github.com/garrytan/gstack)** — *Garry Tan's exact Claude Code setup — 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA for AI-assisted development.* ⭐ 124k+ [TypeScript]
 - **[ loop-engineering ](https://github.com/cobusgreyling/loop-engineering)** — *Practical patterns, starters, and CLI tools for loop engineering — teaches agents how to iterate effectively with human feedback rather than guessing.* ⭐ 9.5k [JavaScript]
