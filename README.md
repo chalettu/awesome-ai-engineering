@@ -4,6 +4,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 
 ## AI Coding Agents
 
+- **[ LlamaStash ](https://llamastash.dev/)** — *Terminal-native local-LLM launcher (TUI + CLI) — zero-overhead llama.cpp backend with init wizard, hardware-aware launches, and a built-in OpenAI/Anthropic proxy for agent tooling.* ⭐ ?
 - **[ Orca ](https://www.onorca.dev/)** — *Agent Development Environment (ADE) for running Claude Code, Codex, OpenCode, and more side by side in isolated worktrees — built-in terminals, file editor, git tracking, and mobile companion.* ⭐ ?
 - **[ Agent Flow ](https://github.com/patoles/agent-flow)**
 - **[ Hermes Control Deck ](https://github.com/filipj9/Hermes-Control-Deck)** — *Mobile-first PWA control deck for Hermes WebUI and Codex CLI — unified monitoring, prompt submission, approvals, and session management from any browser or phone.* ⭐ 33
