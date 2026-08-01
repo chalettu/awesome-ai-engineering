@@ -47,7 +47,8 @@ This is a repo that shares a lot of the great links I have collected on how to a
 
 ## AI Tools & CLI
 
-- **[ adhd ](https://github.com/UditAkhourii/adhd)** — *Tree-of-thought with pruning for coding agents — explores multiple solution paths and prunes dead ends before committing, reducing wasted agent iterations.* ⭐ 2.4k [TypeScript]
+- **[ git-to.dev ](https://git-to.dev/)** — *Shortest link to any GitHub repo — fuzzy, path-based URL shortener with no account required.* ⭐ ?
+- **[ adhd ](https://github.com/UditAkhourii/adhd)**
 - **[ AI Job Search ](https://github.com/MadsLorentzen/ai-job-search)** — *AI job application framework built on Claude Code — evaluate postings, tailor CVs, write cover letters, prep interviews, all running locally.* ⭐ 27.6k [TypeScript]
 - **[ apm ](https://github.com/microsoft/apm)** — *Microsoft's Agent Package Manager — standardized way to discover, install, and version AI agent packages, bringing npm-like discipline to agent tooling.* ⭐ 3.4k [Python]
 - **[ asm ](https://github.com/luongnv89/asm)** — *Universal skill manager for AI coding agents — one tool to manage skills across different agent platforms and frameworks.* ⭐ 752 [TypeScript]
