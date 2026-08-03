@@ -18,6 +18,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[ CLI-Anything ](https://github.com/HKUDS/CLI-Anything)** — *Make any app agent-native via CLI — turn any software into a tool that AI coding agents can interact with through standardized command interfaces.* ⭐ 46.2k [Python]
 - **[ Omnigent ](https://github.com/omnigent-ai/omnigent)** — *Open-source AI agent framework and meta-harness — orchestrate Claude Code, Codex, Cursor, Pi, and custom agents; swap harnesses without rewriting, enforce policies and sandboxing.* ⭐ 7.8k [Python]
 - **[ Plano ](https://github.com/katanemo/plano)** — *AI-native proxy and data plane for agentic apps — smart LLM routing, observability, and cost optimization built into the infrastructure layer.* ⭐ 6.9k [Rust]
+- **[ Mobilerun ](https://github.com/droidrun/mobilerun)** — *Open-source framework for controlling Android and iOS devices with LLM agents — mobile-native tools for UI inspection, screenshots, tap/swipe/type, multi-step workflows, and Python/CLI integration.* ⭐ 8.9k [Python]
 - **[ Strands Agents ](https://strandsagents.com/)** — *Amazon's open-source SDK for building AI agents — primitives for agent development in Python and TypeScript, including tool use, memory, and multi-agent orchestration.* ⭐ ?
 
 ## Model Serving & Inference
