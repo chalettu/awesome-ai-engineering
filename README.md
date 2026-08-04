@@ -4,6 +4,9 @@ This is a repo that shares a lot of the great links I have collected on how to a
 
 ## AI Coding Agents
 
+- **[ Academic Research Skills ](https://github.com/Imbad0202/academic-research-skills)** — *Academic research skills for Claude Code — research → write → review → revise → finalize, all running locally.* ⭐ 40.9k [Python]
+- **[ HERDr ](https://herdr.dev/)** — *The runtime coding agents run on — one binary that gives Claude Code, Codex, Cursor, and 19 other agent CLIs persistent terminals across macOS, Linux, and Windows.* ⭐ ?
+- **[ Agent Skills by Addy Osmani ](https://github.com/addyosmani/agent-skills)** — *Production-grade engineering skills for AI coding agents — a curated collection of skills that make coding agents more effective at real engineering work.* ⭐ 81.6k [JavaScript]
 - **[ LlamaStash ](https://llamastash.dev/)** — *Terminal-native local-LLM launcher (TUI + CLI) — zero-overhead llama.cpp backend with init wizard, hardware-aware launches, and a built-in OpenAI/Anthropic proxy for agent tooling.* ⭐ ?
 - **[ Orca ](https://www.onorca.dev/)** — *Agent Development Environment (ADE) for running Claude Code, Codex, OpenCode, and more side by side in isolated worktrees — built-in terminals, file editor, git tracking, and mobile companion.* ⭐ ?
 - **[ Agent Flow ](https://github.com/patoles/agent-flow)**
@@ -15,11 +18,15 @@ This is a repo that shares a lot of the great links I have collected on how to a
 
 ## Agent Frameworks & SDKs
 
+- **[ 12-Factor Agents ](https://github.com/humanlayer/12-factor-agents)** — *Principles for building LLM-powered software that is actually good enough to put in the hands of production customers.* ⭐ 25.1k [TypeScript]
 - **[ Agent Gateway ](https://agentgateway.dev/)** — *Next-gen agentic proxy and unified gateway for AI agents and MCP servers — route, secure, observe, and govern LLM, service, and agent-to-agent traffic in one binary.* ⭐ 4.2k [Rust]
 - **[ CLI-Anything ](https://github.com/HKUDS/CLI-Anything)** — *Make any app agent-native via CLI — turn any software into a tool that AI coding agents can interact with through standardized command interfaces.* ⭐ 46.2k [Python]
-- **[ Omnigent ](https://github.com/omnigent-ai/omnigent)** — *Open-source AI agent framework and meta-harness — orchestrate Claude Code, Codex, Cursor, Pi, and custom agents; swap harnesses without rewriting, enforce policies and sandboxing.* ⭐ 7.8k [Python]
-- **[ Plano ](https://github.com/katanemo/plano)** — *AI-native proxy and data plane for agentic apps — smart LLM routing, observability, and cost optimization built into the infrastructure layer.* ⭐ 6.9k [Rust]
+- **[ FSB (Full Self Browsing) ](https://github.com/lakshmanturlapati/FSB)** — *DOM-first AI browser automation for Chrome and MCP clients — lets AI agents browse the web with full DOM access.* ⭐ 186 [JavaScript]
+- **[ Keystone ](https://github.com/tacoda/keystone)** — *Agent charter framework — author one versioned charter of repository standards and it projects to any coding agent harness (Claude Code, Cursor, etc.).* ⭐ 42 [Go]
 - **[ Mobilerun ](https://github.com/droidrun/mobilerun)** — *Open-source framework for controlling Android and iOS devices with LLM agents — mobile-native tools for UI inspection, screenshots, tap/swipe/type, multi-step workflows, and Python/CLI integration.* ⭐ 8.9k [Python]
+- **[ Omnigent ](https://github.com/omnigent-ai/omnigent)** — *Open-source AI agent framework and meta-harness — orchestrate Claude Code, Codex, Cursor, Pi, and custom agents; swap harnesses without rewriting, enforce policies and sandboxing.* ⭐ 7.8k [Python]
+- **[ OpenTabs ](https://github.com/opentabs-dev/opentabs)** — *Browser automation that calls APIs, not clicks — programmatic browser control for AI agents without DOM manipulation.* ⭐ 883 [TypeScript]
+- **[ Plano ](https://github.com/katanemo/plano)** — *AI-native proxy and data plane for agentic apps — smart LLM routing, observability, and cost optimization built into the infrastructure layer.* ⭐ 6.9k [Rust]
 - **[ Strands Agents ](https://strandsagents.com/)** — *Amazon's open-source SDK for building AI agents — primitives for agent development in Python and TypeScript, including tool use, memory, and multi-agent orchestration.* ⭐ ?
 
 ## Model Serving & Inference
@@ -29,7 +36,9 @@ This is a repo that shares a lot of the great links I have collected on how to a
 
 ## RAG & Knowledge Retrieval
 
+- **[ Chunkr ](https://github.com/lumina-ai-inc/chunkr)** — *Vision infrastructure to turn complex documents into RAG/LLM-ready data — extract structured data from images, PDFs, and scanned documents.* ⭐ 4k [Rust]
 - **[ Stash - Knowledge bases for the agent era ](https://www.joinstash.ai/)** — *Knowledge bases designed for the agent era — give AI agents structured access to your personal and team knowledge with fast, semantic search.* ⭐ ?
+- **[ Webclaw ](https://webclaw.io/)** — *Web scraping API for LLMs and AI agents — turns any URL into clean, LLM-ready markdown or JSON with 90% fewer tokens than raw HTML. Includes MCP server, CLI, and Cloud API.* ⭐ 2k [Rust]
 
 ## AI Evaluation & Testing
 
@@ -39,6 +48,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 ## AI Security & Red Teaming
 
 - **[ Agent Approve ](https://www.agentapprove.com/)** — *Approval gates for destructive AI agent commands — macOS app that intercepts shell commands from Claude Code, Codex, Cursor, etc. and requires human approval before execution. Works with Hermes, OpenClaw, and any agent.* ⭐ ?
+- **[ Pentest AI Agents ](https://github.com/0xSteph/pentest-ai-agents)** — *Turn Claude Code into your offensive security research assistant — specialized AI subagents for authorized penetration testing, recon, exploit research, detection building, STIG auditing, and report writing.* ⭐ 2k [Shell]
 
 ## AI Infrastructure & MLOps
 
@@ -46,11 +56,16 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[ CubeSandbox ](https://github.com/TencentCloud/CubeSandbox)** — *Instant, concurrent, lightweight sandbox for AI agents — run untrusted agent code safely at scale with near-zero overhead in Rust.* ⭐ 10.7k [Rust]
 - **[ Context Forge ](https://github.com/IBM/mcp-context-forge)** — *AI gateway, registry, and proxy for MCP/A2A/REST/gRPC APIs — unified endpoint with centralized discovery, guardrails, and management for agent tool calling.* ⭐ 4.2k [Python]
 - **[ Entire ](https://entire.io/)** — *Developer platform that stores every agent session with your Git commits — checkpoint code changes with full session context, search intent alongside code, and resume work across agents.* ⭐ ?
+- **[ InsForge ](https://github.com/InsForge/InsForge)** — *All-in-one, open-source backend platform for agentic coding — gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.* ⭐ 12.6k [TypeScript]
 - **[ Mnemosyne ](https://mnemosyne.site/)** — *Native AI memory engine for Hermes Agent — SQLite-backed, 50-500x faster than Honcho/Zep/Mem0, with three-tier memory and hybrid search for persistent agent context.* ⭐ ?
 - **[ OpenShip ](https://github.com/oblien/openship)** — *Self-hosted deployment platform for AI apps — take full control of your AI infrastructure instead of relying on managed services.* ⭐ 9.0k [TypeScript]
 
 ## AI Tools & CLI
 
+- **[ CloakBrowser ](https://github.com/CloakHQ/CloakBrowser)** — *Stealth Chromium that passes every bot detection test — drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.* ⭐ 29.6k [Python]
+- **[ Headroom ](https://github.com/chopratejas/headroom)** — *Compress tool outputs, logs, files, and RAG chunks before they reach the LLM — 20% fewer tokens for coding agents, 60-95% fewer for JSON, same answers. Library, proxy, MCP server.* ⭐ 64.7k [Python]
+- **[ Obscura ](https://github.com/h4ckf0r0day/obscura)** — *The open-source headless browser for AI agents and web scraping — purpose-built for autonomous browsing with Rust performance.* ⭐ 20k [Rust]
+- **[ Stop Slop ](https://github.com/hardikpandya/stop-slop)** — *A skill file for removing AI tells from prose — makes AI-generated writing sound more human and less formulaic.* ⭐ 15.2k
 - **[ git-to.dev ](https://git-to.dev/)** — *Shortest link to any GitHub repo — fuzzy, path-based URL shortener with no account required.* ⭐ ?
 - **[ adhd ](https://github.com/UditAkhourii/adhd)**
 - **[ AI Job Search ](https://github.com/MadsLorentzen/ai-job-search)** — *AI job application framework built on Claude Code — evaluate postings, tailor CVs, write cover letters, prep interviews, all running locally.* ⭐ 27.6k [TypeScript]
@@ -72,13 +87,26 @@ This is a repo that shares a lot of the great links I have collected on how to a
 ## AI Research & Papers
 
 - **[ ai-engineering-from-scratch ](https://github.com/rohitg00/ai-engineering-from-scratch)** — *Comprehensive 41-phase interactive guide to building AI systems from scratch — covers everything from data pipelines to deployment with hands-on widgets.* ⭐ 44.2k [Python]
+- **[ SkillOpt ](https://microsoft.github.io/SkillOpt/)** — *Microsoft Research project that treats natural-language skill documents as trainable state of a frozen language agent — learns procedures through rollouts, reflection, bounded edits, and held-out validation gates.* ⭐ ?
+
+## AI News & Aggregators
+
+- **[ Horizon ](https://www.horizon1123.top/)** — *Automated AI news aggregator and summarizer — community-curated signal over noise with 84 curated sources and 7.9k GitHub stars.* ⭐ 7.9k
 
 ## AI Desktop & Apps
 
 - **[ BrowserOS ](https://github.com/browseros-ai/BrowserOS)** — *Open-source agentic browser — AI-native web browsing that combines search, browsing, and agent capabilities as an alternative to ChatGPT Atlas and Perplexity Cosmos.* ⭐ 12.8k [TypeScript]
 - **[ CodexBar ](https://codexbar.app/)** — *macOS menu bar app that tracks AI coding tool usage limits across 56+ providers — monitor API quotas, spending, and rate limits at a glance.* ⭐ ?
 - **[ Cotabby ](https://cotabby.app/)** — *Local AI autocomplete for macOS — fills code, text, and commands in any app with on-device AI, no cloud dependency.* ⭐ ?
+- **[ Hermes WebUI ](https://github.com/nesquena/hermes-webui)** — *The best way to use Hermes Agent from the web or from your phone — full-featured web interface for agent interaction.* ⭐ 16.9k [Python]
 - **[ Simple Markdown Editor ](https://simplemarkdowneditor.com/)** — *Clean, distraction-free markdown editor for writing documentation and notes — lightweight alternative to heavy editors.* ⭐ ?
+- **[ Vessel (Quanta Intellect) ](https://quantaintellect.com/)** — *Browser built for AI assistants — lets AI open websites, click buttons, fill forms, remember sessions, with real-time supervision. MCP-native with 80+ agent tools.* ⭐ ?
+
+## DevTools & Infrastructure
+
+- **[ NPort ](https://nport.link/)** — *Free ngrok alternative — creates secure HTTP/HTTPS tunnels from localhost to public URLs using Cloudflare's edge network. No accounts, no config, just instant tunnels.* ⭐ 702 [TypeScript]
+- **[ public-apis ](https://github.com/public-apis/public-apis)** — *A collective list of free APIs — the most comprehensive curated list of public API endpoints for developers.* ⭐ 454k+ [Python]
+- **[ sish ](https://github.com/antoniomika/sish)** — *HTTP(S)/WS(S)/TCP tunnels to localhost using only SSH — self-hosted ngrok alternative with automatic certificate management and pubkey auth.* ⭐ 4.7k [Go]
 
 ## Other / Uncategorized
 
