@@ -15,6 +15,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 
 ## Agent Frameworks & SDKs
 
+- **[ Agent Gateway ](https://agentgateway.dev/)** — *Next-gen agentic proxy and unified gateway for AI agents and MCP servers — route, secure, observe, and govern LLM, service, and agent-to-agent traffic in one binary.* ⭐ 4.2k [Rust]
 - **[ CLI-Anything ](https://github.com/HKUDS/CLI-Anything)** — *Make any app agent-native via CLI — turn any software into a tool that AI coding agents can interact with through standardized command interfaces.* ⭐ 46.2k [Python]
 - **[ Omnigent ](https://github.com/omnigent-ai/omnigent)** — *Open-source AI agent framework and meta-harness — orchestrate Claude Code, Codex, Cursor, Pi, and custom agents; swap harnesses without rewriting, enforce policies and sandboxing.* ⭐ 7.8k [Python]
 - **[ Plano ](https://github.com/katanemo/plano)** — *AI-native proxy and data plane for agentic apps — smart LLM routing, observability, and cost optimization built into the infrastructure layer.* ⭐ 6.9k [Rust]
