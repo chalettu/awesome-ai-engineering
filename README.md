@@ -42,6 +42,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 
 - **[ AI SRE Agent Diagnoses Incidents ](https://hackernoon.com/i-built-an-ai-sre-agent-that-diagnoses-incidents-before-i-open-my-laptop)** — *Practical guide to building an AI SRE agent that correlates metrics, logs, and deploy history to diagnose incidents and draft fixes before a human even opens their laptop.* ⭐ ?
 - **[ CubeSandbox ](https://github.com/TencentCloud/CubeSandbox)** — *Instant, concurrent, lightweight sandbox for AI agents — run untrusted agent code safely at scale with near-zero overhead in Rust.* ⭐ 10.7k [Rust]
+- **[ Context Forge ](https://github.com/IBM/mcp-context-forge)** — *AI gateway, registry, and proxy for MCP/A2A/REST/gRPC APIs — unified endpoint with centralized discovery, guardrails, and management for agent tool calling.* ⭐ 4.2k [Python]
 - **[ Entire ](https://entire.io/)** — *Developer platform that stores every agent session with your Git commits — checkpoint code changes with full session context, search intent alongside code, and resume work across agents.* ⭐ ?
 - **[ Mnemosyne ](https://mnemosyne.site/)** — *Native AI memory engine for Hermes Agent — SQLite-backed, 50-500x faster than Honcho/Zep/Mem0, with three-tier memory and hybrid search for persistent agent context.* ⭐ ?
 - **[ OpenShip ](https://github.com/oblien/openship)** — *Self-hosted deployment platform for AI apps — take full control of your AI infrastructure instead of relying on managed services.* ⭐ 9.0k [TypeScript]
