@@ -53,6 +53,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 
 ## AI Infrastructure & MLOps
 
+- **[ ACI ](https://github.com/aipotheosis-labs/aci)** — *Open-source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server — the birthplace of VibeOps.* ⭐ 4.8k [Python]
 - **[ AI SRE Agent Diagnoses Incidents ](https://hackernoon.com/i-built-an-ai-sre-agent-that-diagnoses-incidents-before-i-open-my-laptop)** — *Practical guide to building an AI SRE agent that correlates metrics, logs, and deploy history to diagnose incidents and draft fixes before a human even opens their laptop.* ⭐ ?
 - **[ CubeSandbox ](https://github.com/TencentCloud/CubeSandbox)** — *Instant, concurrent, lightweight sandbox for AI agents — run untrusted agent code safely at scale with near-zero overhead in Rust.* ⭐ 10.7k [Rust]
 - **[ Context Forge ](https://github.com/IBM/mcp-context-forge)** — *AI gateway, registry, and proxy for MCP/A2A/REST/gRPC APIs — unified endpoint with centralized discovery, guardrails, and management for agent tool calling.* ⭐ 4.2k [Python]
