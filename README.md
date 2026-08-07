@@ -61,6 +61,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[ Entire ](https://entire.io/)** — *Developer platform that stores every agent session with your Git commits — checkpoint code changes with full session context, search intent alongside code, and resume work across agents.* ⭐ ?
 - **[ InsForge ](https://github.com/InsForge/InsForge)** — *All-in-one, open-source backend platform for agentic coding — gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.* ⭐ 12.6k [TypeScript]
 - **[ Mnemosyne ](https://mnemosyne.site/)** — *Native AI memory engine for Hermes Agent — SQLite-backed, 50-500x faster than Honcho/Zep/Mem0, with three-tier memory and hybrid search for persistent agent context.* ⭐ ?
+- **[ OpenMetadata ](https://github.com/open-metadata/OpenMetadata)** — *Open platform for building trusted data context and business semantics for humans, AI assistants, and agents — includes an MCP server for agent data discovery.* ⭐ 14.8k [TypeScript]
 - **[ OpenShip ](https://github.com/oblien/openship)** — *Self-hosted deployment platform for AI apps — take full control of your AI infrastructure instead of relying on managed services.* ⭐ 9.0k [TypeScript]
 
 ## AI Tools & CLI
