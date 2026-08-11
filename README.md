@@ -21,6 +21,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 ## Agent Frameworks & SDKs
 
 - **[ 12-Factor Agents ](https://github.com/humanlayer/12-factor-agents)** — *Principles for building LLM-powered software that is actually good enough to put in the hands of production customers.* ⭐ 25.1k [TypeScript]
+- **[ Agent Plugins ](https://agent-plugins.org)** — *Open, vendor-neutral standard for packaging reusable components (skills + MCP servers) into portable plugins — TSC includes Amazon, Cursor, Microsoft, OpenAI, and Vercel.* ⭐ ?
 - **[ Agent Gateway ](https://agentgateway.dev/)** — *Next-gen agentic proxy and unified gateway for AI agents and MCP servers — route, secure, observe, and govern LLM, service, and agent-to-agent traffic in one binary.* ⭐ 4.2k [Rust]
 - **[ CLI-Anything ](https://github.com/HKUDS/CLI-Anything)** — *Make any app agent-native via CLI — turn any software into a tool that AI coding agents can interact with through standardized command interfaces.* ⭐ 46.2k [Python]
 - **[ FSB (Full Self Browsing) ](https://github.com/lakshmanturlapati/FSB)** — *DOM-first AI browser automation for Chrome and MCP clients — lets AI agents browse the web with full DOM access.* ⭐ 186 [JavaScript]
