@@ -36,6 +36,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 
 - **[ Mesh LLM ](https://meshllm.cloud/)** — *Distributed LLM inference across multiple machines — shard large models across your homelab or cloud nodes for running models that don't fit on a single GPU.* ⭐ ?
 - **[ ODS ](https://github.com/Osmantic/ODS)** — *All-in-one local AI server setup — installs and configures LLM inference, chat UI, voice, agents, workflows, RAG, and image generation in one command.* ⭐ 3.9k [Python]
+- **[ TurboFieldfare ](https://github.com/drumih/turbo-fieldfare)** — *Custom Swift + Metal runtime for running Gemma 4 26B-A4B on Apple Silicon with ~2 GB RAM — SSD-backed expert streaming, Mac app, CLI, and OpenAI-compatible server.* ⭐ 5.5k [Swift]
 
 ## RAG & Knowledge Retrieval
 
