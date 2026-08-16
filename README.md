@@ -48,6 +48,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 ## AI Evaluation & Testing
 
 - **[ Agent Behavior ](https://github.com/braintrustdata/agentbehavior)** — *Open format for documenting durable behavioral commitments for AI agents — a declarative "meta eval" that defines what good behavior means before any particular scorer or rubric tries to measure it.* ⭐ 143 [TypeScript]
+- **[ Agent QA ](https://github.com/vostride/agent-qa)** — *Source-available QA harness for natural-language web and mobile regression tests with persistent run memory, self-healing execution, a CLI, dashboard, MCP, and agent skills.* ⭐ 849 [TypeScript]
 - **[ Harness Score ](https://paladini.io/harness-score/)** — *Deterministic scoring system for how well-harnessed a codebase is — gives AI coding agents concrete maturity levels (L0-L4) to target when improving projects.* ⭐ ?
 
 ## AI Security & Red Teaming
