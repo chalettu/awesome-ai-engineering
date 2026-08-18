@@ -5,6 +5,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 ## AI Coding Agents
 
 - **[ Academic Research Skills ](https://github.com/Imbad0202/academic-research-skills)** — *Academic research skills for Claude Code — research → write → review → revise → finalize, all running locally.* ⭐ 40.9k [Python]
+- **[ Diagram Design ](https://github.com/cathrynlavery/diagram-design)** — *27 editorial-quality diagram types for Claude Code — self-contained HTML + SVG, no Figma or Mermaid-slop, matches your brand in 60 seconds.* ⭐ 21.2k
 - **[ HERDr ](https://herdr.dev/)** — *The runtime coding agents run on — one binary that gives Claude Code, Codex, Cursor, and 19 other agent CLIs persistent terminals across macOS, Linux, and Windows.* ⭐ ?
 - **[ book-to-skill ](https://github.com/virgiliojr94/book-to-skill)** — *Turn any technical book PDF into a structured agent skill — extracts frameworks, chapters, glossary, and patterns for on-demand reference by AI coding agents.* ⭐ 16.5k [Python]
 - **[ Agent Skills by Addy Osmani ](https://github.com/addyosmani/agent-skills)** — *Production-grade engineering skills for AI coding agents — a curated collection of skills that make coding agents more effective at real engineering work.* ⭐ 81.6k [JavaScript]
