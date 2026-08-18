@@ -36,6 +36,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 ## Model Serving & Inference
 
 - **[ Mesh LLM ](https://meshllm.cloud/)** — *Distributed LLM inference across multiple machines — shard large models across your homelab or cloud nodes for running models that don't fit on a single GPU.* ⭐ ?
+- **[ OmniRoute ](https://github.com/diegosouzapw/OmniRoute)** — *Free MIT AI gateway with one endpoint, 340+ providers (90+ free), 1200+ models — quota-aware auto-fallback, token compression, and MCP/A2A support for Claude Code, Codex, Cursor, and more.* ⭐ 50.2k [TypeScript]
 - **[ ODS ](https://github.com/Osmantic/ODS)** — *All-in-one local AI server setup — installs and configures LLM inference, chat UI, voice, agents, workflows, RAG, and image generation in one command.* ⭐ 3.9k [Python]
 - **[ TurboFieldfare ](https://github.com/drumih/turbo-fieldfare)** — *Custom Swift + Metal runtime for running Gemma 4 26B-A4B on Apple Silicon with ~2 GB RAM — SSD-backed expert streaming, Mac app, CLI, and OpenAI-compatible server.* ⭐ 5.5k [Swift]
 
