@@ -72,6 +72,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[ Mnemosyne ](https://mnemosyne.site/)** — *Native AI memory engine for Hermes Agent — SQLite-backed, 50-500x faster than Honcho/Zep/Mem0, with three-tier memory and hybrid search for persistent agent context.* ⭐ ?
 - **[ OpenMetadata ](https://github.com/open-metadata/OpenMetadata)** — *Open platform for building trusted data context and business semantics for humans, AI assistants, and agents — includes an MCP server for agent data discovery.* ⭐ 14.8k [TypeScript]
 - **[ OpenShip ](https://github.com/oblien/openship)** — *Self-hosted deployment platform for AI apps — take full control of your AI infrastructure instead of relying on managed services.* ⭐ 9.0k [TypeScript]
+- **[ Preloop ](https://preloop.dev/)** — *Agent-native CI engine built in Rust — drop-in GitHub Actions parity with hardware-isolated microVMs that boot in under 200ms, live debug, and a local-first workflow that runs the same engine on your laptop as in CI.* ⭐ ?
 
 ## AI Tools & CLI
 
