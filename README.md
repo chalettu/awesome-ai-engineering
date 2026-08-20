@@ -55,11 +55,13 @@ This is a repo that shares a lot of the great links I have collected on how to a
 ## AI Security & Red Teaming
 
 - **[ Agent Approve ](https://www.agentapprove.com/)** — *Approval gates for destructive AI agent commands — macOS app that intercepts shell commands from Claude Code, Codex, Cursor, etc. and requires human approval before execution. Works with Hermes, OpenClaw, and any agent.* ⭐ ?
+- **[ Iron Proxy ](https://github.com/paradigmxyz/iron-proxy)** — *MITM egress firewall for untrusted workloads — default-deny outbound proxy with secret injection, structured audit trails, and SSRF protection. Purpose-built for CI pipelines, GitHub Actions, and AI agents (Claude Code, Cursor, Codex). Single binary + YAML config.* ⭐ 600 [Go]
 - **[ Pentest AI Agents ](https://github.com/0xSteph/pentest-ai-agents)** — *Turn Claude Code into your offensive security research assistant — specialized AI subagents for authorized penetration testing, recon, exploit research, detection building, STIG auditing, and report writing.* ⭐ 2k [Shell]
 
 ## AI Infrastructure & MLOps
 
 - **[ ACI ](https://github.com/aipotheosis-labs/aci)** — *Open-source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server — the birthplace of VibeOps.* ⭐ 4.8k [Python]
+- **[ iii ](https://github.com/iii-hq/iii)** — *Three primitives. Zero integration cost. — collapses backend services (queues, cron, HTTP, agents, sandboxes, observability) into one live system with three primitives: Worker, Function, Trigger. `iii worker add` installs complete capabilities. Agents can add workers at runtime to gain new capabilities. 270 releases.* ⭐ 18.4k [Rust]
 - **[ AI SRE Agent Diagnoses Incidents ](https://hackernoon.com/i-built-an-ai-sre-agent-that-diagnoses-incidents-before-i-open-my-laptop)** — *Practical guide to building an AI SRE agent that correlates metrics, logs, and deploy history to diagnose incidents and draft fixes before a human even opens their laptop.* ⭐ ?
 - **[ CubeSandbox ](https://github.com/TencentCloud/CubeSandbox)** — *Instant, concurrent, lightweight sandbox for AI agents — run untrusted agent code safely at scale with near-zero overhead in Rust.* ⭐ 10.7k [Rust]
 - **[ Context Forge ](https://github.com/IBM/mcp-context-forge)** — *AI gateway, registry, and proxy for MCP/A2A/REST/gRPC APIs — unified endpoint with centralized discovery, guardrails, and management for agent tool calling.* ⭐ 4.2k [Python]
