@@ -18,6 +18,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[ garrytan/gstack ](https://github.com/garrytan/gstack)** — *Garry Tan's exact Claude Code setup — 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA for AI-assisted development.* ⭐ 124k+ [TypeScript]
 - **[ loop-engineering ](https://github.com/cobusgreyling/loop-engineering)** — *Practical patterns, starters, and CLI tools for loop engineering — teaches agents how to iterate effectively with human feedback rather than guessing.* ⭐ 9.5k [JavaScript]
 - **[ mattpocock/skills ](https://github.com/mattpocock/skills)** — *Skills for Real Engineers — straight from Matt Pocock's .agents directory, practical skills that make AI coding agents more effective at real engineering work.* ⭐ 191k+ [Shell]
+- **[ Ponytail ](https://github.com/dietrichgebert/ponytail)** — *Makes your AI agent think like the laziest senior dev in the room — a ruleset that cuts code output by ~54% (up to 94%), reduces cost ~20%, and speeds up sessions ~27% while keeping safety intact. The "ladder": skip it if unnecessary → reuse existing → stdlib → native platform → one-liner → minimum that works. Plugin for Claude Code, Codex, OpenCode, Gemini CLI, Pi, Copilot CLI, Devin, OpenClaw, Hermes, and more. 105k stars in 2 months.* ⭐ 105k [JavaScript]
 
 ## Agent Frameworks & SDKs
 
@@ -97,6 +98,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[ pm-skills ](https://github.com/phuryn/pm-skills)** — *100+ agentic PM skills, commands, and plugins — turns AI coding agents into full product managers with sprint planning, backlog grooming, and stakeholder comms built in.* ⭐ 24.5k
 - **[ Prompt Engineering Guide ](https://github.com/dair-ai/Prompt-Engineering-Guide)** — *Comprehensive guide to prompt engineering, context engineering, RAG, and AI agents — guides, papers, lessons, and resources from DAIR.AI.* ⭐ 77k+ [MDX]
 - **[ SkillClaw ](https://github.com/AMAP-ML/SkillClaw)** — *Agentic evolver that lets AI skills evolve collectively through automated iteration — skills improve themselves over time.* ⭐ 2.3k [Python]
+- **[ SkillsGate ](https://github.com/skillsgate/skillsgate)** — *Visual skill manager for AI agents — browse, install, and manage agent skills from a single desktop or TUI interface, supporting 20+ agents.* ⭐ 1k [TypeScript]
 - **[ Understand-Anything ](https://github.com/Egonex-AI/Understand-Anything)** — *Turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about — works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.* ⭐ 76k+ [TypeScript]
 
 ## AI Research & Papers
