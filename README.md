@@ -78,6 +78,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 
 - **[ CloakBrowser ](https://github.com/CloakHQ/CloakBrowser)** — *Stealth Chromium that passes every bot detection test — drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.* ⭐ 29.6k [Python]
 - **[ Headroom ](https://github.com/chopratejas/headroom)** — *Compress tool outputs, logs, files, and RAG chunks before they reach the LLM — 20% fewer tokens for coding agents, 60-95% fewer for JSON, same answers. Library, proxy, MCP server.* ⭐ 64.7k [Python]
+- **[ Buzz ](https://github.com/block/buzz)** — *Self-hosted team workspace where humans and AI agents share the same rooms — Nostr relay-based, with channels, git events, workflows, and agent tooling, all on one audit trail.* ⭐ 28.8k [Rust]
 - **[ Obscura ](https://github.com/h4ckf0r0day/obscura)** — *The open-source headless browser for AI agents and web scraping — purpose-built for autonomous browsing with Rust performance.* ⭐ 20k [Rust]
 - **[ Stop Slop ](https://github.com/hardikpandya/stop-slop)** — *A skill file for removing AI tells from prose — makes AI-generated writing sound more human and less formulaic.* ⭐ 15.2k
 - **[ git-to.dev ](https://git-to.dev/)** — *Shortest link to any GitHub repo — fuzzy, path-based URL shortener with no account required.* ⭐ ?
