@@ -46,6 +46,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 ## RAG & Knowledge Retrieval
 
 - **[ Chunkr ](https://github.com/lumina-ai-inc/chunkr)** — *Vision infrastructure to turn complex documents into RAG/LLM-ready data — extract structured data from images, PDFs, and scanned documents.* ⭐ 4k [Rust]
+- **[ OpenViking ](https://github.com/volcengine/OpenViking)** — *Context database for AI agents — unified memory, knowledge, and skills as a virtual filesystem with tiered loading (L0/L1/L2), observable retrieval, and agent integrations for Claude Code, Codex, Cursor, Hermes, and more.* ⭐ 30.8k [Rust]
 - **[ Stash - Knowledge bases for the agent era ](https://www.joinstash.ai/)** — *Knowledge bases designed for the agent era — give AI agents structured access to your personal and team knowledge with fast, semantic search.* ⭐ ?
 - **[ Webclaw ](https://webclaw.io/)** — *Web scraping API for LLMs and AI agents — turns any URL into clean, LLM-ready markdown or JSON with 90% fewer tokens than raw HTML. Includes MCP server, CLI, and Cloud API.* ⭐ 2k [Rust]
 
