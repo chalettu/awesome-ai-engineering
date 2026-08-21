@@ -124,6 +124,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 ## AI Desktop & Apps
 
 - **[Buzz](https://github.com/block/buzz)** — *Self-hosted workspace where humans and agents share channels, Git events, workflows, and an audit trail.*
+- **[Call.md](https://github.com/video-db/call.md)** — *Turn meetings into live agent loops — records, transcribes, and analyzes calls in real-time with AI intelligence and action items.* ⭐ 1.1k [TypeScript]
 - **[CodexBar](https://codexbar.app/)** — *macOS menu bar app for tracking AI coding-tool limits, quotas, and spending.*
 - **[Cotabby](https://cotabby.app/)** — *Local AI autocomplete for code, text, and commands in any macOS application.*
 - **[ExGhostty](https://github.com/rarnu/ExGhostty)** — *SSH client with connection management, SFTP, port forwarding, and a terminal-aware AI assistant.*
