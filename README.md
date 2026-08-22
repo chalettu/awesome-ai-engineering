@@ -68,6 +68,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 ## Agent Tools & Integrations
 
 - **[ACI](https://github.com/aipotheosis-labs/aci)** — *Tool-calling platform connecting hundreds of tools to agentic IDEs and custom agents through function calling or MCP.*
+- **[DevOps & Security Agent Skills](https://github.com/BagelHole/DevOps-Security-Agent-Skills)** — *160+ production-ready agent skills for DevOps, security, infrastructure, and compliance — Kubernetes, Terraform, AWS/Azure/GCP, SOC2/ISO27001, and incident response.* ⭐ 41
 - **[CLI-Anything](https://github.com/HKUDS/CLI-Anything)** — *Make applications agent-native by exposing them through standardized command-line interfaces.*
 - **[Dead Simple Email](https://deadsimple.email/)** — *API-created email inboxes for agents with sending and structured reply webhooks.*
 - **[Headroom](https://github.com/chopratejas/headroom)** — *Compress tool output, logs, files, and RAG chunks before they reach an LLM.*
