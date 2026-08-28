@@ -90,6 +90,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[Chunkr](https://github.com/lumina-ai-inc/chunkr)** — *Vision infrastructure for converting complex documents, PDFs, images, and scans into structured LLM-ready data.*
 - **[Engraphis](https://engraphis.com/)** — *Local-first memory engine with durable scoped memory and hybrid vector, keyword, and graph recall.*
 - **[Mnemosyne](https://mnemosyne.site/)** — *SQLite-backed memory engine for Hermes Agent with tiered memory and hybrid search.*
+- **[OpenWiki](https://github.com/langchain-ai/openwiki)** — *CLI that generates and self-maintains a linked Markdown wiki for your codebase or personal knowledge, built for agents to read as memory — with grounded claims, CI auto-updates, and integrations for Codex, Claude Code, OpenCode, and Cursor.* ⭐ 15.8k [TypeScript]
 - **[OpenViking](https://github.com/volcengine/OpenViking)** — *Context database unifying agent memory, knowledge, and skills in a virtual filesystem.*
 - **[Stash](https://www.joinstash.ai/)** — *Knowledge bases that give agents structured access to personal and team knowledge.*
 - **[Understand-Anything](https://github.com/Egonex-AI/Understand-Anything)** — *Turn codebases into interactive knowledge graphs for exploration, search, and questions.*
