@@ -94,6 +94,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[OpenViking](https://github.com/volcengine/OpenViking)** — *Context database unifying agent memory, knowledge, and skills in a virtual filesystem.*
 - **[Stash](https://www.joinstash.ai/)** — *Knowledge bases that give agents structured access to personal and team knowledge.*
 - **[Understand-Anything](https://github.com/Egonex-AI/Understand-Anything)** — *Turn codebases into interactive knowledge graphs for exploration, search, and questions.*
+- **[TrustGraph](https://github.com/trustgraph-ai/trustgraph)** — *Deterministic context engineering platform that connects open models with ontologies and context graph harnesses to build explainable, reliable agents.* ⭐ 2.5k [Python]
 
 ## Evaluation & Testing
 
