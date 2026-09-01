@@ -98,6 +98,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 
 ## Evaluation & Testing
 
+- **[AgentSight](https://github.com/eunomia-bpf/agentsight)** — *eBPF-based system-level observability for AI agents — connects prompts, model calls, and tool decisions to real system effects (processes, files, network) for debugging and failure analysis.* ⭐ 613 [Rust]
 - **[Agent Behavior](https://github.com/braintrustdata/agentbehavior)** — *Open format for documenting durable behavioral commitments and defining good agent behavior.*
 - **[Agent QA](https://github.com/vostride/agent-qa)** — *QA harness for natural-language web and mobile regression tests with persistent memory and self-healing execution.*
 - **[Harness Score](https://paladini.io/harness-score/)** — *Deterministic scoring system for measuring how well a codebase supports AI coding agents.*
