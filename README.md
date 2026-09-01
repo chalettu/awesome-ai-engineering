@@ -150,6 +150,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[Claude Code Prompt Library](https://code.claude.com/docs/en/prompt-library)** — *Official prompts for common Claude Code tasks, patterns, and workflows.*
 - **[Loop Engineering](https://github.com/cobusgreyling/loop-engineering)** — *Patterns, starters, and CLI tools for effective agent iteration with human feedback.*
 - **[Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)** — *Guide to prompt engineering, context engineering, RAG, and AI agents.*
+- **[Why Agent Edits Need Semantic Identity](https://wavect.io/blog/semantic-identity-rust-agent-edits/)** — *Engineering note on persistent semantic IDs, bounded impact review, and replayable evidence-gated patches in [SEMAPRAX](https://wavect.io/semaprax/), an Apache-2.0 v0.2 pre-alpha research language for agent-assisted systems programming.*
 
 ## News & Aggregators
 
