@@ -137,6 +137,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[CodexBar](https://codexbar.app/)** — *macOS menu bar app for tracking AI coding-tool limits, quotas, and spending.*
 - **[Cotabby](https://cotabby.app/)** — *Local AI autocomplete for code, text, and commands in any macOS application.*
 - **[Open Pencil](https://github.com/open-pencil/open-pencil)** — *AI-native design editor and open-source Figma alternative — build and iterate on designs with AI assistance in a familiar canvas workflow.* ⭐ 8.1k [TypeScript]
+- **[OpenWhispr](https://github.com/OpenWhispr/openwhispr)** — *Privacy-first, cross-platform voice-to-text dictation running local Nvidia Parakeet/Whisper or cloud models (BYOK) — on-device transcription without sending audio to the cloud.* ⭐ 6.1k [JavaScript]
 - **[ExGhostty](https://github.com/rarnu/ExGhostty)** — *SSH client with connection management, SFTP, port forwarding, and a terminal-aware AI assistant.*
 - **[Hermes WebUI](https://github.com/nesquena/hermes-webui)** — *Web and mobile interface for Hermes Agent.*
 - **[OpenWorker](https://github.com/andrewyng/openworker)** — *Desktop AI coworker for documents, Slack replies, calendar updates, and inbox triage.*
