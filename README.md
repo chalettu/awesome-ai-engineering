@@ -136,6 +136,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[Call.md](https://github.com/video-db/call.md)** — *Turn meetings into live agent loops — records, transcribes, and analyzes calls in real-time with AI intelligence and action items.* ⭐ 1.1k [TypeScript]
 - **[CodexBar](https://codexbar.app/)** — *macOS menu bar app for tracking AI coding-tool limits, quotas, and spending.*
 - **[Cotabby](https://cotabby.app/)** — *Local AI autocomplete for code, text, and commands in any macOS application.*
+- **[Open Pencil](https://github.com/open-pencil/open-pencil)** — *AI-native design editor and open-source Figma alternative — build and iterate on designs with AI assistance in a familiar canvas workflow.* ⭐ 8.1k [TypeScript]
 - **[ExGhostty](https://github.com/rarnu/ExGhostty)** — *SSH client with connection management, SFTP, port forwarding, and a terminal-aware AI assistant.*
 - **[Hermes WebUI](https://github.com/nesquena/hermes-webui)** — *Web and mobile interface for Hermes Agent.*
 - **[OpenWorker](https://github.com/andrewyng/openworker)** — *Desktop AI coworker for documents, Slack replies, calendar updates, and inbox triage.*
