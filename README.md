@@ -4,6 +4,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 
 ## Coding Agent Runtimes & Orchestration
 
+- **[abtop](https://github.com/graykode/abtop)** — *Real-time TUI for monitoring AI coding agent sessions — token usage, context window %, rate limits, orphan ports, and child processes for Claude Code, Codex CLI, and OpenCode.* ⭐ 3.4k [Rust]
 - **[Agent Flow](https://github.com/patoles/agent-flow)** — *Real-time visualization and debugging for Claude Code and Codex agent orchestration, including tool calls, branching, timelines, and session replay.*
 - **[Cmd+Ctrl](https://cmd-ctrl.ai/)** — *Centralized control dashboard for monitoring, managing, and switching between multiple coding-agent sessions.*
 - **[HERDr](https://herdr.dev/)** — *Cross-platform runtime that gives Claude Code, Codex, Cursor, and other agent CLIs persistent terminals.*
