@@ -85,6 +85,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[OpenTabs](https://github.com/opentabs-dev/opentabs)** — *Browser automation that calls APIs rather than manipulating the DOM.*
 - **[Vessel](https://quantaintellect.com/)** — *Browser for AI assistants with supervised navigation, persistent sessions, and MCP-native tools.*
 - **[Webclaw](https://webclaw.io/)** — *API, MCP server, and CLI that converts URLs into LLM-ready Markdown or JSON.*
+- **[zvec-grep](https://github.com/zvec-ai/zvec-grep)** — *Local-first search layer unifying ripgrep, BM25, and vector search behind one CLI/MCP interface for humans and AI agents — reduces tool calls and context tokens for code and document retrieval.* ⭐ 1.3k [TypeScript]
 
 ## Knowledge, Memory & Retrieval
 
