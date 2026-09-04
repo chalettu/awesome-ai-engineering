@@ -148,6 +148,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 ## Guides, Research & Reference
 
 - **[12-Factor Agents](https://github.com/humanlayer/12-factor-agents)** — *Principles for building reliable, production-ready LLM-powered software.*
+- **[AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners)** — *Microsoft's 18-lesson course covering AI agent fundamentals, frameworks, RAG, and production deployment — the standard starting point for building agents.* ⭐ 73.8k [Python]
 - **[AI Engineering from Scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** — *Interactive guide to building AI systems from data pipelines through deployment.*
 - **[AI SRE Agent Diagnoses Incidents](https://hackernoon.com/i-built-an-ai-sre-agent-that-diagnoses-incidents-before-i-open-my-laptop)** — *Guide to building an SRE agent that correlates metrics, logs, and deployment history.*
 - **[Awesome Design MD](https://github.com/VoltAgent/awesome-design-md)** — *Collection of `DESIGN.md` files for giving coding agents brand and design-system context.*
