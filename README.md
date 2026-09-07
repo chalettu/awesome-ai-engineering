@@ -57,6 +57,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[Keystone](https://github.com/tacoda/keystone)** — *Agent charter framework that projects one versioned set of repository standards to multiple coding-agent harnesses.*
 - **[LifeOS](https://github.com/danielmiessler/LifeOS)** — *General-purpose AI harness for life and work that captures goals, context, and preferences.*
 - **[Mobilerun](https://github.com/droidrun/mobilerun)** — *Framework for controlling Android and iOS devices with LLM agents.*
+- **[Phone Harness](https://github.com/ShawnPana/phone-harness)** — *Thin harness that connects an LLM agent directly to a real iPhone via macOS iPhone Mirroring — screencapture + Vision OCR for perception, CGEvents for taps, no jailbreak or WebDriverAgent.* ⭐ 2.6k [Python]
 - **[Omnigent](https://github.com/omnigent-ai/omnigent)** — *Meta-harness for orchestrating Claude Code, Codex, Cursor, Pi, and custom agents.*
 - **[OpenBot](https://github.com/CopilotKit/openbot)** — *Self-hosted agent governance platform with isolated browsers, files, policies, audit trails, and human takeover.*
 - **[Plano](https://github.com/katanemo/plano)** — *AI-native proxy and data plane with LLM routing, observability, and cost optimization.*
