@@ -75,6 +75,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[CLI-Anything](https://github.com/HKUDS/CLI-Anything)** — *Make applications agent-native by exposing them through standardized command-line interfaces.*
 - **[Dead Simple Email](https://deadsimple.email/)** — *API-created email inboxes for agents with sending and structured reply webhooks.*
 - **[Headroom](https://github.com/chopratejas/headroom)** — *Compress tool output, logs, files, and RAG chunks before they reach an LLM.*
+- **[ripwire](https://github.com/redhat-et/ripwire)** — *The "ripgrep of AI context" — zero-dependency C++23 CLI + MCP server for coding agents that finds what you want without reading the repo, with blast-radius, tests-to-run, and quality-delta analysis.* ⭐ 1.9k [C++]
 
 ## Browser Automation & Web Access
 
