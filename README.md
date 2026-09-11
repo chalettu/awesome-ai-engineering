@@ -18,6 +18,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[Academic Research Skills](https://github.com/Imbad0202/academic-research-skills)** — *Claude Code research skills spanning research, writing, review, revision, and finalization.*
 - **[Agent Skills by Addy Osmani](https://github.com/addyosmani/agent-skills)** — *Curated production-grade engineering skills for AI coding agents.*
 - **[gstack](https://github.com/garrytan/gstack)** — *Garry Tan's opinionated collection of Claude Code and Codex skills for product, design, engineering, release management, documentation, and QA.*
+- **[Google Skills](https://github.com/google/skills)** — *Google's official Agent Skills repo — 100+ skills for Google Cloud (GKE, BigQuery, Gemini API, Agent Platform) plus plugin bundles for Claude Code, Codex, and Antigravity.* ⭐ 19.1k
 - **[HashiCorp Agent Skills](https://github.com/hashicorp/agent-skills)** — *Official agent skills and Claude Code plugins for Terraform and Packer — 20 skills across 16 Terraform and 4 Packer capabilities.* ⭐ 832
 - **[last30days](https://github.com/mvanhorn/last30days-skill)** — *AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web, then synthesizes a grounded summary of what actually matters.* ⭐ 58.9k
 - **[Pentest AI Agents](https://github.com/0xSteph/pentest-ai-agents)** — *Specialized subagents for authorized penetration testing, recon, exploit research, detection building, auditing, and reporting.*
