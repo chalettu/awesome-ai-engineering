@@ -114,6 +114,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 
 - **[Agent Approve](https://www.agentapprove.com/)** — *Approval gates for destructive commands issued by AI coding agents.*
 - **[SkillSpector](https://github.com/NVIDIA/SkillSpector)** — *NVIDIA's security scanner for AI agent skills — detects vulnerabilities, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before install.* ⭐ 15.9k [Python]
+- **[Security Audit Skill](https://github.com/cloudflare/security-audit-skill)** — *Cloudflare's coding-agent skill for multi-phase security audits with independently verified, machine-readable findings.* ⭐ 3.6k [JavaScript]
 - **[FailproofAI](https://github.com/FailproofAI/failproofai)** — *Observability and policy enforcement for AI agent harnesses — captures every run, enforces 40 built-in reliability policies, and provides a local dashboard with no account required.* ⭐ 1.2k [TypeScript]
 - **[Iron Proxy](https://github.com/paradigmxyz/iron-proxy)** — *Default-deny egress firewall with secret injection, audit trails, and SSRF protection.*
 
