@@ -75,6 +75,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[DevOps & Security Agent Skills](https://github.com/BagelHole/DevOps-Security-Agent-Skills)** — *160+ production-ready agent skills for DevOps, security, infrastructure, and compliance — Kubernetes, Terraform, AWS/Azure/GCP, SOC2/ISO27001, and incident response.* ⭐ 41
 - **[CLI-Anything](https://github.com/HKUDS/CLI-Anything)** — *Make applications agent-native by exposing them through standardized command-line interfaces.*
 - **[Dead Simple Email](https://deadsimple.email/)** — *API-created email inboxes for agents with sending and structured reply webhooks.*
+- **[AgentMail](https://www.agentmail.to/)** — *Email inbox API for AI agents — programmatic inbox creation, send/receive with threading, webhooks, custom domains, and MCP server integration.*
 - **[Headroom](https://github.com/chopratejas/headroom)** — *Compress tool output, logs, files, and RAG chunks before they reach an LLM.*
 - **[ripwire](https://github.com/redhat-et/ripwire)** — *The "ripgrep of AI context" — zero-dependency C++23 CLI + MCP server for coding agents that finds what you want without reading the repo, with blast-radius, tests-to-run, and quality-delta analysis.* ⭐ 1.9k [C++]
 
