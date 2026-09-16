@@ -135,6 +135,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[Context Forge](https://github.com/IBM/mcp-context-forge)** — *Gateway, registry, and proxy for MCP, A2A, REST, and gRPC APIs.*
 - **[CubeSandbox](https://github.com/TencentCloud/CubeSandbox)** — *Lightweight sandbox for safely running untrusted agent code at scale.*
 - **[Entire](https://entire.io/)** — *Store agent sessions with Git commits so intent and context can be searched and resumed.*
+- **[forkd](https://github.com/deeplethe/forkd)** — *MicroVM sandbox runtime for AI agent fan-out — fork 100 KVM-isolated children from a warm parent snapshot in ~100 ms with copy-on-write memory, and BRANCH live VMs in ~56 ms.* ⭐ 2.9k [Rust]
 - **[iii](https://github.com/iii-hq/iii)** — *Backend platform combining queues, cron, HTTP, agents, sandboxes, and observability around three primitives.*
 - **[InsForge](https://github.com/InsForge/InsForge)** — *Backend platform providing coding agents with database, auth, storage, compute, hosting, and an AI gateway.*
 - **[OpenMetadata](https://github.com/open-metadata/OpenMetadata)** — *Data-context and business-semantics platform with MCP support for agent discovery.*
