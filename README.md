@@ -170,6 +170,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 ## News & Aggregators
 
 - **[Horizon](https://www.horizon1123.top/)** — *Automated AI news aggregator and summarizer built around curated sources.*
+- **[RepoDir](https://repodir.com/)** — *Directory of curated GitHub repositories with topic browsing, star counts, and an AI-tools section — useful for discovering repos in the AI engineering space.* ⭐ ?
 
 ## DevTools & Infrastructure
 
