@@ -10,6 +10,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[HERDr](https://herdr.dev/)** — *Cross-platform runtime that gives Claude Code, Codex, Cursor, and other agent CLIs persistent terminals.*
 - **[Hermes Control Deck](https://github.com/filipj9/Hermes-Control-Deck)** — *Mobile-first control deck for Hermes WebUI and Codex CLI with monitoring, prompts, approvals, and session management.*
 - **[Orca](https://www.onorca.dev/)** — *Agent development environment for running multiple coding agents side by side in isolated worktrees.*
+- **[YYLO](https://github.com/yylo-dev/yylo)** — *Command-line orchestrator for coding agents, repeatable workflows, and receipt-backed repository changes — each task runs in a dedicated branch/worktree behind typed task, validation, merge, and release-readiness boundaries, and the merge queue owns risk-based review. Installs via npm as @yylo/cli and orchestrates Pi and Codex subagents.* ⭐ 57
 
 ## Agent Skills
 
