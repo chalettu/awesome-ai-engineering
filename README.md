@@ -115,6 +115,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 ## Security & Red Teaming
 
 - **[Agent Approve](https://www.agentapprove.com/)** — *Approval gates for destructive commands issued by AI coding agents.*
+- **[Agentic Bug Hunter](https://github.com/Awarexone/Agentic-Bug-Hunter)** — *AI-powered bug bounty toolkit that runs recon, vulnerability testing, and validation gates in your terminal, then writes submission-ready reports for HackerOne, Bugcrowd, and Immunefi.* ⭐ 4.4k [Python]
 - **[SkillSpector](https://github.com/NVIDIA/SkillSpector)** — *NVIDIA's security scanner for AI agent skills — detects vulnerabilities, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before install.* ⭐ 15.9k [Python]
 - **[Security Audit Skill](https://github.com/cloudflare/security-audit-skill)** — *Cloudflare's coding-agent skill for multi-phase security audits with independently verified, machine-readable findings.* ⭐ 3.6k [JavaScript]
 - **[FailproofAI](https://github.com/FailproofAI/failproofai)** — *Observability and policy enforcement for AI agent harnesses — captures every run, enforces 40 built-in reliability policies, and provides a local dashboard with no account required.* ⭐ 1.2k [TypeScript]
