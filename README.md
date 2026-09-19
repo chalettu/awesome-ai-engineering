@@ -166,6 +166,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[Awesome Design MD](https://github.com/VoltAgent/awesome-design-md)** — *Collection of `DESIGN.md` files for giving coding agents brand and design-system context.*
 - **[Claude Code Prompt Library](https://code.claude.com/docs/en/prompt-library)** — *Official prompts for common Claude Code tasks, patterns, and workflows.*
 - **[Loop Engineering](https://github.com/cobusgreyling/loop-engineering)** — *Patterns, starters, and CLI tools for effective agent iteration with human feedback.*
+- **[LLM Engineer Toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit)** — *Curated list of 120+ LLM libraries organized by category — a practical reference for finding the right tool for each stage of an LLM engineering stack.* ⭐ 10.8k
 - **[Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)** — *Guide to prompt engineering, context engineering, RAG, and AI agents.*
 
 ## News & Aggregators
