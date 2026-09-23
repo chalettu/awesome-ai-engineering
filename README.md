@@ -107,6 +107,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 
 ## Evaluation & Testing
 
+- **[Agent Beacon](https://github.com/Asymptote-Labs/agent-beacon)** — *Open-source telemetry layer for AI agents — captures activity across local, CI, and cloud runtimes, normalizes into a unified event model with local-first JSONL storage, dashboard, and SIEM forwarding.* ⭐ 312 [Go]
 - **[AgentSight](https://github.com/eunomia-bpf/agentsight)** — *eBPF-based system-level observability for AI agents — connects prompts, model calls, and tool decisions to real system effects (processes, files, network) for debugging and failure analysis.* ⭐ 613 [Rust]
 - **[Agent Behavior](https://github.com/braintrustdata/agentbehavior)** — *Open format for documenting durable behavioral commitments and defining good agent behavior.*
 - **[Agent QA](https://github.com/vostride/agent-qa)** — *QA harness for natural-language web and mobile regression tests with persistent memory and self-healing execution.*
