@@ -6,6 +6,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 
 - **[abtop](https://github.com/graykode/abtop)** — *Real-time TUI for monitoring AI coding agent sessions — token usage, context window %, rate limits, orphan ports, and child processes for Claude Code, Codex CLI, and OpenCode.* ⭐ 3.4k [Rust]
 - **[Agent Flow](https://github.com/patoles/agent-flow)** — *Real-time visualization and debugging for Claude Code and Codex agent orchestration, including tool calls, branching, timelines, and session replay.*
+- **[fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** — *Claude Code plugin that replaces the compaction summary with Jev decisions — every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.* ⭐ 6.7k [TypeScript]
 - **[Cmd+Ctrl](https://cmd-ctrl.ai/)** — *Centralized control dashboard for monitoring, managing, and switching between multiple coding-agent sessions.*
 - **[HERDr](https://herdr.dev/)** — *Cross-platform runtime that gives Claude Code, Codex, Cursor, and other agent CLIs persistent terminals.*
 - **[Hermes Control Deck](https://github.com/filipj9/Hermes-Control-Deck)** — *Mobile-first control deck for Hermes WebUI and Codex CLI with monitoring, prompts, approvals, and session management.*
