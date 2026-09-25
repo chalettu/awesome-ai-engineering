@@ -4,6 +4,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 
 ## Coding Agent Runtimes & Orchestration
 
+- **[abide](https://github.com/coldteadotai/abide)** — *Compiles AGENTS.md/CLAUDE.md rules into a rubric and hooks into Claude Code, Codex, and OpenCode to score every edit/turn against them — violations trigger same-turn repairs.* ⭐ 244 [TypeScript]
 - **[abtop](https://github.com/graykode/abtop)** — *Real-time TUI for monitoring AI coding agent sessions — token usage, context window %, rate limits, orphan ports, and child processes for Claude Code, Codex CLI, and OpenCode.* ⭐ 3.4k [Rust]
 - **[Agent Flow](https://github.com/patoles/agent-flow)** — *Real-time visualization and debugging for Claude Code and Codex agent orchestration, including tool calls, branching, timelines, and session replay.*
 - **[fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** — *Claude Code plugin that replaces the compaction summary with Jev decisions — every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.* ⭐ 6.7k [TypeScript]
