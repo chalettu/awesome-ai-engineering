@@ -116,6 +116,8 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[Agent QA](https://github.com/vostride/agent-qa)** — *QA harness for natural-language web and mobile regression tests with persistent memory and self-healing execution.*
 - **[Harness Score](https://paladini.io/harness-score/)** — *Deterministic scoring system for measuring how well a codebase supports AI coding agents.*
 
+- **[Waza](https://github.com/microsoft/waza)** — *Microsoft's Go CLI and framework for evaluating agent skills — scaffold eval suites, run benchmarks, and compare results across models to measure and improve skill quality.* ⭐ 1.3k [Go]
+
 ## Security & Red Teaming
 
 - **[Agent Approve](https://www.agentapprove.com/)** — *Approval gates for destructive commands issued by AI coding agents.*
