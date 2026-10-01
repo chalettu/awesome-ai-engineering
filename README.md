@@ -131,6 +131,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 
 - **[LlamaStash](https://llamastash.dev/)** — *Terminal-native local-LLM launcher with a llama.cpp backend and OpenAI and Anthropic proxies.*
 - **[llmfit](https://github.com/AlexsJones/llmfit)** — *Terminal tool that right-sizes LLM models to your RAM, CPU, and GPU — detects hardware, scores quality/speed/fit/context, and tells you which models will actually run well, with an interactive TUI and local benchmarking.* ⭐ 33.9k [Rust]
+- **[Magnitude](https://github.com/magnitudedev/magnitude)** — *Open source inference engine that profiles your hardware, recommends the best local models, and compiles tuned kernels for up to 2x faster inference than llama.cpp — plugs into Hermes, Claude Code, Codex, and other agents out of the box.* ⭐ 6.1k [Rust]
 - **[Mesh LLM](https://meshllm.cloud/)** — *Distributed LLM inference across multiple machines.*
 - **[ODS](https://github.com/Osmantic/ODS)** — *All-in-one local server setup for LLM inference, chat, voice, agents, workflows, RAG, and image generation.*
 - **[OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — *AI gateway with quota-aware fallback, token compression, and MCP/A2A support.*
