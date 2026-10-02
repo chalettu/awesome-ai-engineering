@@ -99,6 +99,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 
 - **[Chunkr](https://github.com/lumina-ai-inc/chunkr)** — *Vision infrastructure for converting complex documents, PDFs, images, and scans into structured LLM-ready data.*
 - **[Engraphis](https://engraphis.com/)** — *Local-first memory engine with durable scoped memory and hybrid vector, keyword, and graph recall.*
+- **[Hippo Memory](https://github.com/kitfunso/hippo-memory)** — *Biologically-inspired agent memory layer — hippocampal decay, retrieval strengthening, and consolidation in a zero-dependency SQLite store shared across Claude Code, Codex, Cursor, and any MCP client.* ⭐ 728 [TypeScript]
 - **[Mnemosyne](https://mnemosyne.site/)** — *SQLite-backed memory engine for Hermes Agent with tiered memory and hybrid search.*
 - **[MemOS](https://github.com/MemTensor/MemOS)** — *Memory OS for LLMs and AI agents — unified store/retrieve/manage API with hybrid retrieval, multi-modal memory, cross-task skill reuse, and 35% token savings.* ⭐ 11.1k [Python]
 - **[OKF Agent Memory](https://github.com/okf-memory/okf-agent-memory)** — *Git-native persistent memory for AI coding agents implementing Google OKF v0.2 with sub-300µs BM25 search, embedded MCP server, and progressive disclosure — cuts token bloat 80% with zero external dependencies.* ⭐ 374 [Go]
