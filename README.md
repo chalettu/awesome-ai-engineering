@@ -165,6 +165,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[ExGhostty](https://github.com/rarnu/ExGhostty)** — *SSH client with connection management, SFTP, port forwarding, and a terminal-aware AI assistant.*
 - **[Hermes WebUI](https://github.com/nesquena/hermes-webui)** — *Web and mobile interface for Hermes Agent.*
 - **[OpenWorker](https://github.com/andrewyng/openworker)** — *Desktop AI coworker for documents, Slack replies, calendar updates, and inbox triage.*
+- **[PI-Desktop](https://pi-docs.aiuo.net/)** — *Modular desktop workspace for AI agents — projects, sessions, models, plugins, and workflows in one persistent local environment with no mandatory account or relay.* ⭐ ?
 - **[Simple Markdown Editor](https://simplemarkdowneditor.com/)** — *Distraction-free Markdown editor for documentation and notes.*
 
 ## Guides, Research & Reference
