@@ -188,6 +188,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 ## News & Aggregators
 
 - **[Horizon](https://www.horizon1123.top/)** — *Automated AI news aggregator and summarizer built around curated sources.*
+- **[Awesome Jev](https://github.com/wh000wh000/awesome-jev-live)** — *Evidence-graded index of TypeSafe System One (Jev) projects — SDKs, MCP tools, agents, apps, and open models across 20 languages, rebuilt every 2 hours with official/observed/inferred/unverified confidence grading.* ⭐ 135 [Python]
 - **[RepoDir](https://repodir.com/)** — *Directory of curated GitHub repositories with topic browsing, star counts, and an AI-tools section — useful for discovering repos in the AI engineering space.* ⭐ ?
 
 ## DevTools & Infrastructure
