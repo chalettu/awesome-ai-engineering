@@ -51,6 +51,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[Agent Package Manager](https://github.com/microsoft/apm)** — *Microsoft's package manager for discovering, installing, and versioning agent packages.*
 - **[Agent Plugins](https://agent-plugins.org)** — *Open standard for packaging skills, MCP servers, and other reusable components into portable plugins.*
 - **[asm](https://github.com/luongnv89/asm)** — *Universal skill manager spanning multiple AI agent platforms.*
+- **[jevgrep](https://github.com/dzhng/jevgrep)** — *CLI for coding agents that finds relevant files and source excerpts by describing code behavior — uses Jev for semantic ranking with MCP server and agent skill support.* ⭐ 2.2k [TypeScript]
 - **[OpenSpace](https://github.com/HKUDS/OpenSpace)** — *Marketplace-based discovery, installation, and management layer for agent skills.*
 - **[SkillsGate](https://github.com/skillsgate/skillsgate)** — *Visual desktop and TUI skill manager supporting many AI agents.*
 
