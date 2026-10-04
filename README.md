@@ -119,6 +119,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[AgentSight](https://github.com/eunomia-bpf/agentsight)** — *eBPF-based system-level observability for AI agents — connects prompts, model calls, and tool decisions to real system effects (processes, files, network) for debugging and failure analysis.* ⭐ 613 [Rust]
 - **[Agent Behavior](https://github.com/braintrustdata/agentbehavior)** — *Open format for documenting durable behavioral commitments and defining good agent behavior.*
 - **[Agent QA](https://github.com/vostride/agent-qa)** — *QA harness for natural-language web and mobile regression tests with persistent memory and self-healing execution.*
+- **[e2e](https://github.com/tester-army/e2e)** — *TypeScript end-to-end test runner by TesterArmy — mix deterministic locators and assertions with agent steps (`agent.act`, `agent.assert`, `agent.extract`) that drive a real browser, iOS simulator, or Android emulator, with replay caching so passing agent steps skip the model call.* ⭐ 1.8k [TypeScript]
 - **[Harness Score](https://paladini.io/harness-score/)** — *Deterministic scoring system for measuring how well a codebase supports AI coding agents.*
 
 - **[Waza](https://github.com/microsoft/waza)** — *Microsoft's Go CLI and framework for evaluating agent skills — scaffold eval suites, run benchmarks, and compare results across models to measure and improve skill quality.* ⭐ 1.3k [Go]
