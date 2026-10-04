@@ -12,6 +12,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[HERDr](https://herdr.dev/)** — *Cross-platform runtime that gives Claude Code, Codex, Cursor, and other agent CLIs persistent terminals.*
 - **[Hermes Control Deck](https://github.com/filipj9/Hermes-Control-Deck)** — *Mobile-first control deck for Hermes WebUI and Codex CLI with monitoring, prompts, approvals, and session management.*
 - **[Orca](https://www.onorca.dev/)** — *Agent development environment for running multiple coding agents side by side in isolated worktrees.*
+- **[Open Code Review](https://github.com/alibaba/open-code-review)** — *AI-powered code review CLI from Alibaba — hybrid deterministic pipeline + LLM agent with line-level precision, built-in ruleset for NPE/thread-safety/XSS/SQL injection, and delegation mode for coding agents.* ⭐ 21.1k [Go]
 
 ## Agent Skills
 
