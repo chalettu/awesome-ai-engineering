@@ -68,6 +68,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[OpenBot](https://github.com/CopilotKit/openbot)** — *Self-hosted agent governance platform with isolated browsers, files, policies, audit trails, and human takeover.*
 - **[Plano](https://github.com/katanemo/plano)** — *AI-native proxy and data plane with LLM routing, observability, and cost optimization.*
 - **[Strands Agents](https://strandsagents.com/)** — *Amazon's Python and TypeScript SDK for agents with tool use, memory, and multi-agent orchestration.*
+- **[system-one](https://iamaamir.github.io/system-one/pi/)** — *Provider-neutral System One SDK for TypeScript — typed decisions (choice, score, noul) that run against Jev, Reflex, or any /v1/systemone endpoint, with a Pi agent integration.* ⭐ 47 [TypeScript]
 
 ## Agent Workflows & Applications
 
