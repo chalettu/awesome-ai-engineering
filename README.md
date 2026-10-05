@@ -189,6 +189,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 ## AI Tools & CLI
 
 - **[Bend](https://github.com/bendlang/bend)** — *Massively parallel language with dependent types and proof checking — `LAWS.bend` is AGENTS.md backed by mathematical proof, blocking AI coding mistakes at compile time. C speed on CPU, CUDA speed on GPU.* ⭐ 22.8k [Rust]
+- **[Pi-Bolt](https://pi-bolt.opensec.in/)** — *Pi coding agent compiled to native machine code — 2-3x faster launch (45ms vs 128ms), ~1/3 CPU usage, no Node.js or Bun required. Drop-in replacement that carries over your existing Pi config and extensions.*
 
 ## News & Aggregators
 
