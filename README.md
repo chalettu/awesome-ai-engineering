@@ -186,6 +186,10 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[LLM Engineer Toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit)** — *Curated list of 120+ LLM libraries organized by category — a practical reference for finding the right tool for each stage of an LLM engineering stack.* ⭐ 10.8k
 - **[Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)** — *Guide to prompt engineering, context engineering, RAG, and AI agents.*
 
+## AI Tools & CLI
+
+- **[Bend](https://github.com/bendlang/bend)** — *Massively parallel language with dependent types and proof checking — `LAWS.bend` is AGENTS.md backed by mathematical proof, blocking AI coding mistakes at compile time. C speed on CPU, CUDA speed on GPU.* ⭐ 22.8k [Rust]
+
 ## News & Aggregators
 
 - **[Horizon](https://www.horizon1123.top/)** — *Automated AI news aggregator and summarizer built around curated sources.*
