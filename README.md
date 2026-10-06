@@ -66,6 +66,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[Mobilerun](https://github.com/droidrun/mobilerun)** — *Framework for controlling Android and iOS devices with LLM agents.*
 - **[Phone Harness](https://github.com/ShawnPana/phone-harness)** — *Thin harness that connects an LLM agent directly to a real iPhone via macOS iPhone Mirroring — screencapture + Vision OCR for perception, CGEvents for taps, no jailbreak or WebDriverAgent.* ⭐ 2.6k [Python]
 - **[Omnigent](https://github.com/omnigent-ai/omnigent)** — *Meta-harness for orchestrating Claude Code, Codex, Cursor, Pi, and custom agents.*
+- **[OpenSRE](https://github.com/Tracer-Cloud/opensre)** — *Open-source framework for building your own AI SRE agents — connect 60+ monitoring/incident tools (Datadog, Grafana, Slack), define workflows, and get root-cause analysis and remediation on your own infrastructure.* ⭐ 11.4k [Python]
 - **[OpenBot](https://github.com/CopilotKit/openbot)** — *Self-hosted agent governance platform with isolated browsers, files, policies, audit trails, and human takeover.*
 - **[Plano](https://github.com/katanemo/plano)** — *AI-native proxy and data plane with LLM routing, observability, and cost optimization.*
 - **[Strands Agents](https://strandsagents.com/)** — *Amazon's Python and TypeScript SDK for agents with tool use, memory, and multi-agent orchestration.*
