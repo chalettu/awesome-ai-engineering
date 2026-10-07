@@ -142,6 +142,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[Mesh LLM](https://meshllm.cloud/)** — *Distributed LLM inference across multiple machines.*
 - **[ODS](https://github.com/Osmantic/ODS)** — *All-in-one local server setup for LLM inference, chat, voice, agents, workflows, RAG, and image generation.*
 - **[OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — *AI gateway with quota-aware fallback, token compression, and MCP/A2A support.*
+- **[Splash](https://github.com/incoai/splash)** — *Local inference engine for Apple silicon built around the model — DFlash 2 speculative decoding (2.7–4.6× vs MTP), specialized Metal kernels, OpenAI/Anthropic-compatible API, and one-command coding-agent launchers (Claude, Codex, OpenCode, Hermes).* ⭐ 1.2k [Metal]
 - **[WorkWeave Router](https://github.com/workweave/router)** — *Drop-in model router for Anthropic, OpenAI, and Gemini that picks the best model per request using an on-box embedder — cuts costs 40-70% with just an endpoint change.* ⭐ 2.7k [Go]
 - **[TurboFieldfare](https://github.com/drumih/turbo-fieldfare)** — *Swift and Metal runtime for running Gemma models on Apple Silicon with SSD-backed expert streaming.*
 
