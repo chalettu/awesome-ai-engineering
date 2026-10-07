@@ -13,6 +13,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[Hermes Control Deck](https://github.com/filipj9/Hermes-Control-Deck)** — *Mobile-first control deck for Hermes WebUI and Codex CLI with monitoring, prompts, approvals, and session management.*
 - **[Orca](https://www.onorca.dev/)** — *Agent development environment for running multiple coding agents side by side in isolated worktrees.*
 - **[Open Code Review](https://github.com/alibaba/open-code-review)** — *AI-powered code review CLI from Alibaba — hybrid deterministic pipeline + LLM agent with line-level precision, built-in ruleset for NPE/thread-safety/XSS/SQL injection, and delegation mode for coding agents.* ⭐ 21.1k [Go]
+- **[OpenRig](https://github.com/mvschwarz/openrig)** — *Multi-agent harness that runs Claude Code, Codex, and Pi as a persistent team with roles, shared context, and owned work — define topologies in YAML, boot with one command, and coordinate projects that take weeks.* ⭐ 5.7k [TypeScript]
 
 ## Agent Skills
 
