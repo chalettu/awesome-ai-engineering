@@ -149,6 +149,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 
 ## Infrastructure & MLOps
 
+- **[Agent Lightning](https://github.com/microsoft/agent-lightning)** — *Microsoft's ~3,500-line agentic RL framework for training AI agents with real harnesses — agents run with zero code changes through a proxy gateway while verl + vLLM handle policy updates, with native Kubernetes rollout support.* ⭐ 18.6k [Python]
 - **[Context Forge](https://github.com/IBM/mcp-context-forge)** — *Gateway, registry, and proxy for MCP, A2A, REST, and gRPC APIs.*
 - **[CubeSandbox](https://github.com/TencentCloud/CubeSandbox)** — *Lightweight sandbox for safely running untrusted agent code at scale.*
 - **[Entire](https://entire.io/)** — *Store agent sessions with Git commits so intent and context can be searched and resumed.*
