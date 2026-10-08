@@ -195,6 +195,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[Loop Engineering](https://github.com/cobusgreyling/loop-engineering)** — *Patterns, starters, and CLI tools for effective agent iteration with human feedback.*
 - **[LLM Engineer Toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit)** — *Curated list of 120+ LLM libraries organized by category — a practical reference for finding the right tool for each stage of an LLM engineering stack.* ⭐ 10.8k
 - **[Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)** — *Guide to prompt engineering, context engineering, RAG, and AI agents.*
+- **[Why Agent Edits Need Semantic Identity](https://wavect.io/blog/semantic-identity-rust-agent-edits/)** — *Engineering note on persistent semantic IDs, bounded impact review, and replayable evidence-gated patches in [SEMAPRAX](https://wavect.io/semaprax/), an Apache-2.0 v0.2 pre-alpha research language for agent-assisted systems programming.*
 
 ## AI Tools & CLI
 
