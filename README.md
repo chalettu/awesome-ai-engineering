@@ -41,6 +41,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[Obsidian Skills](https://github.com/kepano/obsidian-skills)** — *Skills for creating and editing Markdown, Bases, JSON Canvas, and using the Obsidian CLI.*
 - **[Ponytail](https://github.com/dietrichgebert/ponytail)** — *Cross-agent ruleset that encourages minimal, reuse-first implementations.*
 - **[Stop Slop](https://github.com/hardikpandya/stop-slop)** — *Skill file for removing common AI tells from prose.*
+- **[UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)** — *AI skill providing design intelligence for professional UI/UX across multiple platforms — design system generator, pattern recommendations, and multi-framework support (React, Tailwind, HTML5). Works with Claude Code, Cursor, Codex, Copilot, Windsurf, and more.* ⭐ 89.3k [Python]
 
 ## Skill Development & Management
 
