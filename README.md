@@ -87,6 +87,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[CLI-Anything](https://github.com/HKUDS/CLI-Anything)** — *Make applications agent-native by exposing them through standardized command-line interfaces.*
 - **[Dead Simple Email](https://deadsimple.email/)** — *API-created email inboxes for agents with sending and structured reply webhooks.*
 - **[AgentMail](https://www.agentmail.to/)** — *Email inbox API for AI agents — programmatic inbox creation, send/receive with threading, webhooks, custom domains, and MCP server integration.*
+- **[Voidmail](https://github.com/voidly-ai/mcp-email)** — *MCP server and REST API that gives an AI agent its own @voidmail.ai inbox to read and search mail, sending only to recipients the owner has approved.*
 - **[Headroom](https://github.com/chopratejas/headroom)** — *Compress tool output, logs, files, and RAG chunks before they reach an LLM.*
 - **[REA](https://github.com/morluto/rea)** — *One MCP for reverse engineering — lets AI agents inspect native binaries, Electron/JS apps, .NET assemblies, and websites without source code, explain how features work with evidence, and reconstruct them locally.* ⭐ 16.8k [Python]
 - **[ripwire](https://github.com/redhat-et/ripwire)** — *The "ripgrep of AI context" — zero-dependency C++23 CLI + MCP server for coding agents that finds what you want without reading the repo, with blast-radius, tests-to-run, and quality-delta analysis.* ⭐ 1.9k [C++]
