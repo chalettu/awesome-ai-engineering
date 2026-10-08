@@ -36,6 +36,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[Diagram Design](https://github.com/cathrynlavery/diagram-design)** — *Editorial-quality diagram skill for Claude Code using self-contained HTML and SVG.*
 - **[Hallmark](https://www.usehallmark.com/)** — *Design skill with themes and quality checks intended to prevent generic AI-generated output.*
 - **[i-have-adhd](https://github.com/ayghri/i-have-adhd)** — *ADHD-friendly skill that keeps agent output direct and scannable.*
+- **[Impeccable](https://github.com/pbakaus/impeccable)** — *Design guidance skill for AI coding agents — 24 commands, 60 deterministic detector rules, and live browser iteration to prevent generic AI-generated frontend design. Supports Cursor, Claude Code, Codex, Hermes, and more.* ⭐ 78.5k [JavaScript]
 - **[Obsidian Skills](https://github.com/kepano/obsidian-skills)** — *Skills for creating and editing Markdown, Bases, JSON Canvas, and using the Obsidian CLI.*
 - **[Ponytail](https://github.com/dietrichgebert/ponytail)** — *Cross-agent ruleset that encourages minimal, reuse-first implementations.*
 - **[Stop Slop](https://github.com/hardikpandya/stop-slop)** — *Skill file for removing common AI tells from prose.*
