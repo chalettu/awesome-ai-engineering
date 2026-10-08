@@ -68,6 +68,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[Keystone](https://github.com/tacoda/keystone)** — *Agent charter framework that projects one versioned set of repository standards to multiple coding-agent harnesses.*
 - **[LifeOS](https://github.com/danielmiessler/LifeOS)** — *General-purpose AI harness for life and work that captures goals, context, and preferences.*
 - **[Cua](https://github.com/trycua/cua)** — *Open-source computer-use infrastructure — cross-OS drivers, agent-ready sandboxes, and benchmarks for training and evaluating AI agents that control full desktops.* ⭐ 26.8k
+- **[Hatchet](https://github.com/hatchet-dev/hatchet)** — *Orchestration engine for background tasks, AI agents, and durable workflows — DAG-based execution, automatic retries, queuing, real-time monitoring, and alerting. Supports Python, TypeScript, Go, and Ruby. Self-host or use Hatchet Cloud.* ⭐ 8.1k [Go]
 - **[Mobilerun](https://github.com/droidrun/mobilerun)** — *Framework for controlling Android and iOS devices with LLM agents.*
 - **[Phone Harness](https://github.com/ShawnPana/phone-harness)** — *Thin harness that connects an LLM agent directly to a real iPhone via macOS iPhone Mirroring — screencapture + Vision OCR for perception, CGEvents for taps, no jailbreak or WebDriverAgent.* ⭐ 2.6k [Python]
 - **[Omnigent](https://github.com/omnigent-ai/omnigent)** — *Meta-harness for orchestrating Claude Code, Codex, Cursor, Pi, and custom agents.*
