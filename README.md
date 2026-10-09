@@ -156,6 +156,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 
 ## Infrastructure & MLOps
 
+- **[AIO Sandbox](https://github.com/agent-infra/sandbox)** — *All-in-one Docker sandbox for AI agents combining browser, shell, filesystem, VSCode Server, Jupyter, and MCP in a single container — spin up isolated agent environments with API key auth in 30 seconds.* ⭐ 6.1k [TypeScript]
 - **[Agent Lightning](https://github.com/microsoft/agent-lightning)** — *Microsoft's ~3,500-line agentic RL framework for training AI agents with real harnesses — agents run with zero code changes through a proxy gateway while verl + vLLM handle policy updates, with native Kubernetes rollout support.* ⭐ 18.6k [Python]
 - **[Context Forge](https://github.com/IBM/mcp-context-forge)** — *Gateway, registry, and proxy for MCP, A2A, REST, and gRPC APIs.*
 - **[CubeSandbox](https://github.com/TencentCloud/CubeSandbox)** — *Lightweight sandbox for safely running untrusted agent code at scale.*
