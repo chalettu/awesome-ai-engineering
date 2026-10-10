@@ -86,14 +86,20 @@ This is a repo that shares a lot of the great links I have collected on how to a
 
 - **[ACI](https://github.com/aipotheosis-labs/aci)** — *Tool-calling platform connecting hundreds of tools to agentic IDEs and custom agents through function calling or MCP.*
 - **[DevOps & Security Agent Skills](https://github.com/BagelHole/DevOps-Security-Agent-Skills)** — *160+ production-ready agent skills for DevOps, security, infrastructure, and compliance — Kubernetes, Terraform, AWS/Azure/GCP, SOC2/ISO27001, and incident response.* ⭐ 41
-- **[GraphJin](https://github.com/dosco/graphjin)** — *Compiler and runtime that gives AI agents one governed graph over databases, files, APIs, and code via GraphQL + MCP — agents discover before acting, validate queries, and every answer is checked against an execution ledger.* ⭐ 3.2k [Go]
 - **[CLI-Anything](https://github.com/HKUDS/CLI-Anything)** — *Make applications agent-native by exposing them through standardized command-line interfaces.*
-- **[Context Mode](https://github.com/mksglu/context-mode)** — *MCP server that sandboxes tool output to cut context window usage by 98%, persists session memory across compaction, enforces routing, and reduces output-token filler — supports 17 platforms including Claude Code, Codex, Cursor, Copilot, and more.* ⭐ 20.3k [TypeScript]
 - **[Dead Simple Email](https://deadsimple.email/)** — *API-created email inboxes for agents with sending and structured reply webhooks.*
 - **[AgentMail](https://www.agentmail.to/)** — *Email inbox API for AI agents — programmatic inbox creation, send/receive with threading, webhooks, custom domains, and MCP server integration.*
 - **[Headroom](https://github.com/chopratejas/headroom)** — *Compress tool output, logs, files, and RAG chunks before they reach an LLM.*
+
+## MCP Servers & Tools
+
+- **[Context Forge](https://github.com/IBM/mcp-context-forge)** — *Gateway, registry, and proxy for MCP, A2A, REST, and gRPC APIs.*
+- **[Context Mode](https://github.com/mksglu/context-mode)** — *MCP server that sandboxes tool output to cut context window usage by 98%, persists session memory across compaction, enforces routing, and reduces output-token filler — supports 17 platforms including Claude Code, Codex, Cursor, Copilot, and more.* ⭐ 20.3k [TypeScript]
+- **[GraphJin](https://github.com/dosco/graphjin)** — *Compiler and runtime that gives AI agents one governed graph over databases, files, APIs, and code via GraphQL + MCP — agents discover before acting, validate queries, and every answer is checked against an execution ledger.* ⭐ 3.2k [Go]
 - **[REA](https://github.com/morluto/rea)** — *One MCP for reverse engineering — lets AI agents inspect native binaries, Electron/JS apps, .NET assemblies, and websites without source code, explain how features work with evidence, and reconstruct them locally.* ⭐ 16.8k [Python]
 - **[ripwire](https://github.com/redhat-et/ripwire)** — *The "ripgrep of AI context" — zero-dependency C++23 CLI + MCP server for coding agents that finds what you want without reading the repo, with blast-radius, tests-to-run, and quality-delta analysis.* ⭐ 1.9k [C++]
+- **[Snyk MCP Cheat Sheet](https://snyk.io/articles/snyk-mcp-cheat-sheet/)** — *Practical guide to the Snyk MCP Server — install, configure (stdio/SSE), and run security scans (Code, SCA, IaC) autonomously from AI coding assistants like Claude Code, Cursor, Copilot, and Windsurf.*
+- **[Webclaw](https://webclaw.io/)** — *API, MCP server, and CLI that converts URLs into LLM-ready Markdown or JSON.*
 
 ## Browser Automation & Web Access
 
@@ -105,7 +111,6 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[Obscura](https://github.com/h4ckf0r0day/obscura)** — *Open-source headless browser purpose-built for AI agents and web scraping.*
 - **[OpenTabs](https://github.com/opentabs-dev/opentabs)** — *Browser automation that calls APIs rather than manipulating the DOM.*
 - **[Vessel](https://quantaintellect.com/)** — *Browser for AI assistants with supervised navigation, persistent sessions, and MCP-native tools.*
-- **[Webclaw](https://webclaw.io/)** — *API, MCP server, and CLI that converts URLs into LLM-ready Markdown or JSON.*
 - **[zvec-grep](https://github.com/zvec-ai/zvec-grep)** — *Local-first search layer unifying ripgrep, BM25, and vector search behind one CLI/MCP interface for humans and AI agents — reduces tool calls and context tokens for code and document retrieval.* ⭐ 1.3k [TypeScript]
 
 ## Knowledge, Memory & Retrieval
@@ -160,7 +165,6 @@ This is a repo that shares a lot of the great links I have collected on how to a
 
 - **[AIO Sandbox](https://github.com/agent-infra/sandbox)** — *All-in-one Docker sandbox for AI agents combining browser, shell, filesystem, VSCode Server, Jupyter, and MCP in a single container — spin up isolated agent environments with API key auth in 30 seconds.* ⭐ 6.1k [TypeScript]
 - **[Agent Lightning](https://github.com/microsoft/agent-lightning)** — *Microsoft's ~3,500-line agentic RL framework for training AI agents with real harnesses — agents run with zero code changes through a proxy gateway while verl + vLLM handle policy updates, with native Kubernetes rollout support.* ⭐ 18.6k [Python]
-- **[Context Forge](https://github.com/IBM/mcp-context-forge)** — *Gateway, registry, and proxy for MCP, A2A, REST, and gRPC APIs.*
 - **[CubeSandbox](https://github.com/TencentCloud/CubeSandbox)** — *Lightweight sandbox for safely running untrusted agent code at scale.*
 - **[Entire](https://entire.io/)** — *Store agent sessions with Git commits so intent and context can be searched and resumed.*
 - **[forkd](https://github.com/deeplethe/forkd)** — *MicroVM sandbox runtime for AI agent fan-out — fork 100 KVM-isolated children from a warm parent snapshot in ~100 ms with copy-on-write memory, and BRANCH live VMs in ~56 ms.* ⭐ 2.9k [Rust]
