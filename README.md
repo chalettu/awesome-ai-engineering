@@ -86,6 +86,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 
 - **[ACI](https://github.com/aipotheosis-labs/aci)** — *Tool-calling platform connecting hundreds of tools to agentic IDEs and custom agents through function calling or MCP.*
 - **[DevOps & Security Agent Skills](https://github.com/BagelHole/DevOps-Security-Agent-Skills)** — *160+ production-ready agent skills for DevOps, security, infrastructure, and compliance — Kubernetes, Terraform, AWS/Azure/GCP, SOC2/ISO27001, and incident response.* ⭐ 41
+- **[GraphJin](https://github.com/dosco/graphjin)** — *Compiler and runtime that gives AI agents one governed graph over databases, files, APIs, and code via GraphQL + MCP — agents discover before acting, validate queries, and every answer is checked against an execution ledger.* ⭐ 3.2k [Go]
 - **[CLI-Anything](https://github.com/HKUDS/CLI-Anything)** — *Make applications agent-native by exposing them through standardized command-line interfaces.*
 - **[Context Mode](https://github.com/mksglu/context-mode)** — *MCP server that sandboxes tool output to cut context window usage by 98%, persists session memory across compaction, enforces routing, and reduces output-token filler — supports 17 platforms including Claude Code, Codex, Cursor, Copilot, and more.* ⭐ 20.3k [TypeScript]
 - **[Dead Simple Email](https://deadsimple.email/)** — *API-created email inboxes for agents with sending and structured reply webhooks.*
