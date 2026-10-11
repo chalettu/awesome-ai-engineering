@@ -139,6 +139,8 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[e2e](https://github.com/tester-army/e2e)** — *TypeScript end-to-end test runner by TesterArmy — mix deterministic locators and assertions with agent steps (`agent.act`, `agent.assert`, `agent.extract`) that drive a real browser, iOS simulator, or Android emulator, with replay caching so passing agent steps skip the model call.* ⭐ 1.8k [TypeScript]
 - **[Harness Score](https://paladini.io/harness-score/)** — *Deterministic scoring system for measuring how well a codebase supports AI coding agents.*
 
+- **[Promptfoo](https://github.com/promptfoo/promptfoo)** — *CLI and library for evaluating and red-teaming LLM apps — test prompts, agents, and RAG with declarative configs, compare models (GPT, Claude, Gemini, DeepSeek), and integrate into CI/CD. Used by OpenAI and Anthropic.* ⭐ 25.9k [TypeScript]
+
 - **[Waza](https://github.com/microsoft/waza)** — *Microsoft's Go CLI and framework for evaluating agent skills — scaffold eval suites, run benchmarks, and compare results across models to measure and improve skill quality.* ⭐ 1.3k [Go]
 
 ## Security & Red Teaming
