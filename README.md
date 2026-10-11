@@ -174,6 +174,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[forkd](https://github.com/deeplethe/forkd)** — *MicroVM sandbox runtime for AI agent fan-out — fork 100 KVM-isolated children from a warm parent snapshot in ~100 ms with copy-on-write memory, and BRANCH live VMs in ~56 ms.* ⭐ 2.9k [Rust]
 - **[iii](https://github.com/iii-hq/iii)** — *Backend platform combining queues, cron, HTTP, agents, sandboxes, and observability around three primitives.*
 - **[InsForge](https://github.com/InsForge/InsForge)** — *Backend platform providing coding agents with database, auth, storage, compute, hosting, and an AI gateway.*
+- **[Nightona](https://github.com/nightona-co/nightona)** — *Open-source community fork of Daytona (v0.190.0, AGPL-3.0) — secure, elastic sandbox infrastructure for running AI-generated code and agent workflows. Self-hostable alternative after Daytona went private.* ⭐ 9 [Go]
 - **[OpenMetadata](https://github.com/open-metadata/OpenMetadata)** — *Data-context and business-semantics platform with MCP support for agent discovery.*
 - **[OpenShip](https://github.com/oblien/openship)** — *Self-hosted deployment platform for AI applications.*
 - **[Preloop](https://preloop.dev/)** — *Agent-native CI engine with GitHub Actions compatibility, isolated microVMs, live debugging, and local workflows.*
