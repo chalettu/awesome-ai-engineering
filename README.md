@@ -154,6 +154,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[Security Audit Skill](https://github.com/cloudflare/security-audit-skill)** — *Cloudflare's coding-agent skill for multi-phase security audits with independently verified, machine-readable findings.* ⭐ 3.6k [JavaScript]
 - **[FailproofAI](https://github.com/FailproofAI/failproofai)** — *Observability and policy enforcement for AI agent harnesses — captures every run, enforces 40 built-in reliability policies, and provides a local dashboard with no account required.* ⭐ 1.2k [TypeScript]
 - **[Iron Proxy](https://github.com/paradigmxyz/iron-proxy)** — *Default-deny egress firewall with secret injection, audit trails, and SSRF protection.*
+- **[Pi Guardrails](https://github.com/aliou/pi-guardrails)** — *Security hooks for Pi — prevents agents from reading secrets, writing protected files, accessing paths outside the workspace, or running dangerous shell commands. Four extensions for file protection, path access control, permission gating, and Herdr integration.* ⭐ 294 [TypeScript]
 
 ## Model Serving & Inference
 
