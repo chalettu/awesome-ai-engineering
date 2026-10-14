@@ -134,17 +134,15 @@ This is a repo that shares a lot of the great links I have collected on how to a
 ## Evaluation & Testing
 
 - **[Agent Beacon](https://github.com/Asymptote-Labs/agent-beacon)** — *Open-source telemetry layer for AI agents — captures activity across local, CI, and cloud runtimes, normalizes into a unified event model with local-first JSONL storage, dashboard, and SIEM forwarding.* ⭐ 312 [Go]
-- **[Blazo](https://github.com/agentblazo/blazo)** — *Open-source observability for AI agents — OpenTelemetry-based SDK, local collector, and live Next.js dashboard with deterministic detection of stuck runs, repeated tool calls, and loops.* ⭐ 13 [TypeScript]
-- **[AgentSight](https://github.com/eunomia-bpf/agentsight)** — *eBPF-based system-level observability for AI agents — connects prompts, model calls, and tool decisions to real system effects (processes, files, network) for debugging and failure analysis.* ⭐ 613 [Rust]
 - **[Agent Behavior](https://github.com/braintrustdata/agentbehavior)** — *Open format for documenting durable behavioral commitments and defining good agent behavior.*
 - **[Agent QA](https://github.com/vostride/agent-qa)** — *QA harness for natural-language web and mobile regression tests with persistent memory and self-healing execution.*
+- **[AgentSight](https://github.com/eunomia-bpf/agentsight)** — *eBPF-based system-level observability for AI agents — connects prompts, model calls, and tool decisions to real system effects (processes, files, network) for debugging and failure analysis.* ⭐ 613 [Rust]
+- **[AI Decision System](https://github.com/BichengWang/ai-decision-system)** — *Replayable, offline-verifiable decision records for AI-assisted go/no-go decisions — typed model answers, policy-gated approvals, A/B ship gates, and release gates that third parties can re-check against frozen inputs and rules.* ⭐ 135 [Jupyter Notebook]
+- **[Blazo](https://github.com/agentblazo/blazo)** — *Open-source observability for AI agents — OpenTelemetry-based SDK, local collector, and live Next.js dashboard with deterministic detection of stuck runs, repeated tool calls, and loops.* ⭐ 13 [TypeScript]
 - **[e2e](https://github.com/tester-army/e2e)** — *TypeScript end-to-end test runner by TesterArmy — mix deterministic locators and assertions with agent steps (`agent.act`, `agent.assert`, `agent.extract`) that drive a real browser, iOS simulator, or Android emulator, with replay caching so passing agent steps skip the model call.* ⭐ 1.8k [TypeScript]
 - **[Harness Score](https://paladini.io/harness-score/)** — *Deterministic scoring system for measuring how well a codebase supports AI coding agents.*
-
 - **[iFixAi](https://github.com/ifixai-ai/iFixAi)** — *Independent auditing CLI for AI agents — runs 32 inspections across five pillars (adversarial depth + operational assurance) to grade whether an agent does its intended job, producing an A–F scorecard in under 120 seconds. Integrates with Claude Code, Codex, Cursor, and more.* ⭐ 11.2k [Python]
-
 - **[Promptfoo](https://github.com/promptfoo/promptfoo)** — *CLI and library for evaluating and red-teaming LLM apps — test prompts, agents, and RAG with declarative configs, compare models (GPT, Claude, Gemini, DeepSeek), and integrate into CI/CD. Used by OpenAI and Anthropic.* ⭐ 25.9k [TypeScript]
-
 - **[Waza](https://github.com/microsoft/waza)** — *Microsoft's Go CLI and framework for evaluating agent skills — scaffold eval suites, run benchmarks, and compare results across models to measure and improve skill quality.* ⭐ 1.3k [Go]
 
 ## Security & Red Teaming
