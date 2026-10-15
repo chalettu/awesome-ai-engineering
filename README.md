@@ -67,6 +67,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 
 - **[aichat](https://github.com/sigoden/aichat)** — *All-in-one LLM CLI in Rust with shell assistant, chat REPL, RAG, and AI tools/agents — one binary that works with OpenAI, Claude, Gemini, Ollama, Groq, and more.* ⭐ 10.4k [Rust]
 - **[Agent Gateway](https://agentgateway.dev/)** — *Gateway for routing, securing, observing, and governing LLM, MCP, and agent-to-agent traffic.*
+- **[Agent-Native](https://www.agent-native.com/)** — *Open source framework for building apps where AI agents and UI share the same database, actions, and application state — agents and interfaces operate on the same primitives for unified state management.* ⭐ ?
 - **[Keystone](https://github.com/tacoda/keystone)** — *Agent charter framework that projects one versioned set of repository standards to multiple coding-agent harnesses.*
 - **[LifeOS](https://github.com/danielmiessler/LifeOS)** — *General-purpose AI harness for life and work that captures goals, context, and preferences.*
 - **[Cua](https://github.com/trycua/cua)** — *Open-source computer-use infrastructure — cross-OS drivers, agent-ready sandboxes, and benchmarks for training and evaluating AI agents that control full desktops.* ⭐ 26.8k
