@@ -208,6 +208,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 ## Guides, Research & Reference
 
 - **[12-Factor Agents](https://github.com/humanlayer/12-factor-agents)** — *Principles for building reliable, production-ready LLM-powered software.*
+- **[AI Agents Are Becoming Employees](https://hackernoon.com/ai-agents-are-becoming-employees-the-architecture-of-work-has-to-change)** — *Article on enterprise AI agent architecture — why agents need organizational identity, least-privilege permissions, runtime policy enforcement (not prompt-as-security-boundary), observability, and lifecycle management, with examples from Microsoft Agent 365 and Google Cloud's agent platform.*
 - **[AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners)** — *Microsoft's 18-lesson course covering AI agent fundamentals, frameworks, RAG, and production deployment — the standard starting point for building agents.* ⭐ 73.8k [Python]
 - **[AI Engineering from Scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** — *Interactive guide to building AI systems from data pipelines through deployment.*
 - **[Agentic Engineering Handbook](https://github.com/keyuchen21/agentic-engineering-handbook)** — *Structured learning roadmap consolidating 175+ official resources on OpenAI, Anthropic, MCP, harnesses, evals, and production agent systems — phased from fundamentals through long-running agents and safety.* ⭐ 398 [Python]
