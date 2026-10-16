@@ -223,6 +223,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[OpenEnv](https://github.com/huggingface/OpenEnv)** — *E2e framework for creating, deploying, and using isolated execution environments for agentic RL training — Gymnasium-style APIs (`step()`, `reset()`, `state()`), Docker packaging, one-command Hugging Face Spaces deployment, MCP-native environments, and LLM-as-a-judge eval support.* ⭐ 2.5k [Python]
 - **[pg-jev](https://github.com/realZachi/pg-jev)** — *PostgreSQL extension that filters, ranks, and classifies rows with plain-language conditions using TypeSafe's Jev — no embeddings, no vector column, just `WHERE jev(people, 'the name is European')` composes with normal SQL.* ⭐ 1.2k [Python]
 - **[Pi Skill Orchestrator](https://github.com/badgids/pi-skill-orchestrator)** — *Pi extension that replaces eager skill catalog loading with lazy search, on-demand loading, skill groups, and profiles — keeps large agent skill libraries installed without bloating the LLM system prompt every turn.* ⭐ 16 [TypeScript]
+- **[this-that-model](https://huggingface.co/flock-io/this-that-model-1.0)** — *Typed decision model that returns one of n declared options with a calibrated probability in a single forward pass — no decoding loop, no output tokens, ~31 ms on a consumer GPU. 1.88B params, 94.1% accuracy vs Jev's 76.5% on 68-question benchmark at ~1/3000th the cost.* ⭐ 40 [Python]
 
 ## News & Aggregators
 
