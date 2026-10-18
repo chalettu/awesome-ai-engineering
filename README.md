@@ -188,6 +188,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[OpenMetadata](https://github.com/open-metadata/OpenMetadata)** — *Data-context and business-semantics platform with MCP support for agent discovery.*
 - **[OpenShip](https://github.com/oblien/openship)** — *Self-hosted deployment platform for AI applications.*
 - **[Preloop](https://preloop.dev/)** — *Agent-native CI engine with GitHub Actions compatibility, isolated microVMs, live debugging, and local workflows.*
+- **[Reef](https://github.com/Human-Agent-Society/reef)** — *First open-source infrastructure for continually self-improving agents — connects inference, feedback, learning, and versioned delivery to train model weights (via Slime/SGLang) or evolve an agent's harness (prompts, rules, skills) without local GPUs.* ⭐ 7.6k [Python]
 
 ## AI Desktop & Apps
 
