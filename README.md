@@ -246,6 +246,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[ConvertX](https://github.com/C4illin/ConvertX)** — *Self-hosted file converter supporting more than 1,000 formats.*
 - **[Devbox](https://github.com/jetify-com/devbox)** — *CLI that creates isolated, reproducible dev environments from a JSON package list using Nix — spin up consistent sandboxes for agent dev instances with `devbox shell` or `devbox run`.* ⭐ 12.4k [Go]
 - **[git-to.dev](https://git-to.dev/)** — *Short, fuzzy, path-based links to GitHub repositories.*
+- **[gitai](https://github.com/feder-cr/git-ai)** — *Open-source implementation of Anthropic's Scion design — a server-centric version control system built for hundreds of concurrent AI coding agents, with server-side history, compare-and-swap landing, changeset log, and pluggable LLM conflict resolution.* ⭐ 2.4k [Go]
 - **[NetBird](https://netbird.io/)** — *Open-source, self-hosted zero-trust mesh networking platform.*
 - **[NPort](https://nport.link/)** — *Account-free HTTP and HTTPS tunnels from localhost using Cloudflare's edge.*
 - **[public-apis](https://github.com/public-apis/public-apis)** — *Community-curated collection of free public APIs.*
