@@ -202,6 +202,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[Call.md](https://github.com/video-db/call.md)** — *Turn meetings into live agent loops — records, transcribes, and analyzes calls in real-time with AI intelligence and action items.* ⭐ 1.1k [TypeScript]
 - **[CodexBar](https://codexbar.app/)** — *macOS menu bar app for tracking AI coding-tool limits, quotas, and spending.*
 - **[Cotabby](https://cotabby.app/)** — *Local AI autocomplete for code, text, and commands in any macOS application.*
+- **[Herdr HUD](https://github.com/finna/herdr-hud)** — *Floating desktop HUD for macOS and Windows that lets you monitor coding agents, read output, and send prompts while gaming — works with Herdr persistent terminal sessions across computers.* ⭐ 72 [C#]
 - **[Open Pencil](https://github.com/open-pencil/open-pencil)** — *AI-native design editor and open-source Figma alternative — build and iterate on designs with AI assistance in a familiar canvas workflow.* ⭐ 8.1k [TypeScript]
 - **[Screenshot to Code](https://github.com/abi/screenshot-to-code)** — *Drop in a design screenshot and get clean HTML/Tailwind/React/Vue code back — fast prototyping from mockups without manual transcription.* ⭐ 79.3k [Python]
 - **[OpenWhispr](https://github.com/OpenWhispr/openwhispr)** — *Privacy-first, cross-platform voice-to-text dictation running local Nvidia Parakeet/Whisper or cloud models (BYOK) — on-device transcription without sending audio to the cloud.* ⭐ 6.1k [JavaScript]
