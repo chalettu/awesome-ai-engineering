@@ -62,6 +62,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 ### Creation & Optimization
 
 - **[book-to-skill](https://github.com/virgiliojr94/book-to-skill)** — *Turn technical book PDFs into structured agent skills.*
+- **[Skill Recorder](https://github.com/microsoft/skill-recorder)** — *Microsoft desktop app that records on-screen work sessions and uses the GitHub Copilot SDK to reconstruct them as an intent + ordered steps, then generates reusable Skills or Automations for Microsoft Autopilots.* ⭐ 4.4k [TypeScript]
 - **[SkillClaw](https://github.com/AMAP-ML/SkillClaw)** — *Agentic evolver for improving skills collectively through automated iteration.*
 - **[SkillOpt](https://microsoft.github.io/SkillOpt/)** — *Microsoft Research project for optimizing natural-language skill documents through rollouts, reflection, bounded edits, and validation.*
 
