@@ -213,6 +213,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[VoiceStudio](https://github.com/debpalash/VoiceStudio)** — *Fully local, open-source ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription, and audiobook creation in 646 languages.* ⭐ 28.6k [Python]
 - **[Voicebox](https://github.com/jamiepine/voicebox)** — *Local-first AI voice studio combining voice cloning (8 TTS engines, 23 languages), global dictation, and MCP server for giving agents voice output — open-source ElevenLabs + WisprFlow alternative running on your machine.* ⭐ 57.3k [Python]
 - **[ExGhostty](https://github.com/rarnu/ExGhostty)** — *SSH client with connection management, SFTP, port forwarding, and a terminal-aware AI assistant.*
+- **[FigCraft](https://github.com/storytold/figcraft)** — *Open-source Figma alternative in pure Rust — interface design, prototyping, and vector editing with an MCP server exposing 400+ commands so AI agents can drive the full tool headlessly.* ⭐ 3.5k [Rust]
 - **[Hermes WebUI](https://github.com/nesquena/hermes-webui)** — *Web and mobile interface for Hermes Agent.*
 - **[OpenWorker](https://github.com/andrewyng/openworker)** — *Desktop AI coworker for documents, Slack replies, calendar updates, and inbox triage.*
 - **[PI-Desktop](https://pi-docs.aiuo.net/)** — *Modular desktop workspace for AI agents — projects, sessions, models, plugins, and workflows in one persistent local environment with no mandatory account or relay.* ⭐ ?
