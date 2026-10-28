@@ -98,6 +98,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 ## Agent Workflows & Applications
 
 - **[AI Job Search](https://github.com/MadsLorentzen/ai-job-search)** — *Claude Code workflow for evaluating job postings, tailoring CVs, writing cover letters, and preparing for interviews.*
+- **[Dossier](https://github.com/AienTech/dossier)** — *Self-hosted job search app that uses local or hosted LLMs to write tailored resumes and cover letters from your profile — tracks applications from draft to offer, with optional AI job agent, Claude connector, and Gmail integration.* ⭐ 2.4k [TypeScript]
 - **[OpenMuse](https://github.com/CopilotKit/openmuse)** — *Open-source personal agent app with a persistent browser, terminal, files, and durable task plans — built with CopilotKit React Native for iOS/Android/web, with Gmail/Calendar integration, approvals, goals tracking, and document form-filling.* ⭐ 5.2k [TypeScript]
 
 ## Agent Tools & Integrations
