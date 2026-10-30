@@ -111,6 +111,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[Dead Simple Email](https://deadsimple.email/)** — *API-created email inboxes for agents with sending and structured reply webhooks.*
 - **[AgentMail](https://www.agentmail.to/)** — *Email inbox API for AI agents — programmatic inbox creation, send/receive with threading, webhooks, custom domains, and MCP server integration.*
 - **[AIO Sandbox](https://github.com/agent-infra/sandbox)** — *All-in-one Docker sandbox combining browser, shell, filesystem, VSCode, Jupyter, and MCP server for AI agent execution — run agents safely with API key auth and reproducible pinned deployments.* ⭐ 6.2k [Python]
+- **[Fabric](https://github.com/danielmiessler/Fabric)** — *Open-source framework for augmenting humans with AI via a crowdsourced library of modular prompts (patterns) usable anywhere — CLI, REST API, and custom stitches for chaining patterns across local and cloud models.* ⭐ 44.5k [Go]
 - **[Headroom](https://github.com/chopratejas/headroom)** — *Compress tool output, logs, files, and RAG chunks before they reach an LLM.*
 
 ## MCP Servers & Tools
