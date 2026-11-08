@@ -52,6 +52,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 
 ### Specialized Skills
 
+- **[blurt](https://github.com/AGIHunt/blurt)** — *Record your screen and talk — your coding agent turns the walkthrough into separate bug tickets, ideas, and todos with the exact frames marked. Agent skill + macOS menu-bar app for Claude Code and Codex.* ⭐ 107 [TypeScript]
 - **[Archify](https://github.com/tt-a1i/archify)** — *Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams — self-contained HTML with motion, dark/light themes, Before/Delta/After comparison, and PNG/SVG/WebM export. Supports Cursor, Claude Code, Codex, and OpenCode.* ⭐ 7.5k [HTML]
 - **[adhd](https://github.com/UditAkhourii/adhd)** — *Tree-of-thought skill that explores divergent approaches, scores them, prunes weak paths, and deepens strong candidates.*
 - **[Cookiy User Research Skill](https://github.com/cookiy-ai/user-research-skill)** — *End-to-end user-research skill covering AI interviews, synthetic users, quantitative surveys, and participant recruitment.*
