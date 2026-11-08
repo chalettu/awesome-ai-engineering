@@ -117,6 +117,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[AIO Sandbox](https://github.com/agent-infra/sandbox)** — *All-in-one Docker sandbox combining browser, shell, filesystem, VSCode, Jupyter, and MCP server for AI agent execution — run agents safely with API key auth and reproducible pinned deployments.* ⭐ 6.2k [Python]
 - **[Fabric](https://github.com/danielmiessler/Fabric)** — *Open-source framework for augmenting humans with AI via a crowdsourced library of modular prompts (patterns) usable anywhere — CLI, REST API, and custom stitches for chaining patterns across local and cloud models.* ⭐ 44.5k [Go]
 - **[Headroom](https://github.com/chopratejas/headroom)** — *Compress tool output, logs, files, and RAG chunks before they reach an LLM.*
+- **[Kanzo](https://github.com/emanuele-em/kanzo)** — *Self-hosted kanban board and MCP server in a 4.5 MB binary — humans and coding agents share the same task board, agents pick up tasks via MCP, and it runs with zero setup.* ⭐ 1.0k [Rust]
 
 ## MCP Servers & Tools
 
