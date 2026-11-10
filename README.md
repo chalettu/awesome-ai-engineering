@@ -175,6 +175,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 ## Security & Red Teaming
 
 - **[Agent Approve](https://www.agentapprove.com/)** — *Approval gates for destructive commands issued by AI coding agents.*
+- **[Tracekit](https://github.com/Cygnux-Labs/Tracekit)** — *Tamper-evident tracing, policy gates, and cross-checks for AI agents — signs every tool call and decision into a hash chain, produces one offline-verifiable `.tkb` file per run. Integrates with Claude Code, OpenAI Agents SDK, LangChain/LangGraph, MCP, and more.* ⭐ 602 [Python]
 - **[Agentic Bug Hunter](https://github.com/Awarexone/Agentic-Bug-Hunter)** — *AI-powered bug bounty toolkit that runs recon, vulnerability testing, and validation gates in your terminal, then writes submission-ready reports for HackerOne, Bugcrowd, and Immunefi.* ⭐ 4.4k [Python]
 - **[SkillSpector](https://github.com/NVIDIA/SkillSpector)** — *NVIDIA's security scanner for AI agent skills — detects vulnerabilities, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before install.* ⭐ 15.9k [Python]
 - **[Snyk MCP Cheat Sheet](https://snyk.io/articles/snyk-mcp-cheat-sheet/)** — *Practical guide to the Snyk MCP Server — install, configure (stdio/SSE), and run security scans (Code, SCA, IaC) autonomously from AI coding assistants like Claude Code, Cursor, Copilot, and Windsurf.*
