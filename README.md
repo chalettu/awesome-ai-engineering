@@ -39,6 +39,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 
 - **[Academic Research Skills](https://github.com/Imbad0202/academic-research-skills)** — *Claude Code research skills spanning research, writing, review, revision, and finalization.*
 - **[Agent Skills by Addy Osmani](https://github.com/addyosmani/agent-skills)** — *Curated production-grade engineering skills for AI coding agents.*
+- **[Cuttlefish.MD](https://github.com/hackernoon/cuttlefish-agent-skills)** — *HackerNoon's library of 2,806 license-verified SKILL.md agent skills packaged as installable plugins across 9 categories — works with Claude Code, Codex, Cursor, and Gemini CLI.* ⭐ 3 [MIT]
 - **[Elephant-Goldfish Model (EGM)](https://github.com/google/elephant-goldfish-model)** — *Google's open-source spec-driven development plugin — a deep-context "elephant" agent drafts designs while fresh zero-context "goldfish" subagents stress-test them for blind spots before implementation. Works with Claude Code, Codex, and Antigravity.* ⭐ 7.3k [Python]
 - **[gstack](https://github.com/garrytan/gstack)** — *Garry Tan's opinionated collection of Claude Code and Codex skills for product, design, engineering, release management, documentation, and QA.*
 - **[Google Skills](https://github.com/google/skills)** — *Google's official Agent Skills repo — 100+ skills for Google Cloud (GKE, BigQuery, Gemini API, Agent Platform) plus plugin bundles for Claude Code, Codex, and Antigravity.* ⭐ 19.1k
