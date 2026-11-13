@@ -120,6 +120,7 @@ This is a repo that shares a lot of the great links I have collected on how to a
 - **[Fabric](https://github.com/danielmiessler/Fabric)** — *Open-source framework for augmenting humans with AI via a crowdsourced library of modular prompts (patterns) usable anywhere — CLI, REST API, and custom stitches for chaining patterns across local and cloud models.* ⭐ 44.5k [Go]
 - **[Headroom](https://github.com/chopratejas/headroom)** — *Compress tool output, logs, files, and RAG chunks before they reach an LLM.*
 - **[Kanzo](https://github.com/emanuele-em/kanzo)** — *Self-hosted kanban board and MCP server in a 4.5 MB binary — humans and coding agents share the same task board, agents pick up tasks via MCP, and it runs with zero setup.* ⭐ 1.0k [Rust]
+- **[Persona](https://github.com/runtypelabs/persona)** — *Drop-in AI chat widget for websites with streaming, WebMCP page tools, voice I/O, multi-modal content, approval gates, and a plugin system — framework-agnostic TypeScript that works alongside React, Vue, or any FE stack.* ⭐ 264 [TypeScript]
 
 ## MCP Servers & Tools
 
